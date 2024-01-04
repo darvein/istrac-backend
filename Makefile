@@ -1,9 +1,9 @@
-.PHONY: build run
+.PHONY: up run-migrations
 
 up:
 	@echo "Starting up..."
-	#python manage.py startapp istrac
-	python manage.py runserver
+	. venv/bin/activate ;\
+		python manage.py runserver
 
 run-migrations:
 	@echo "Running migrations..."
