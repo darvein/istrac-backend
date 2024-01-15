@@ -10,3 +10,4 @@ class TPlace(models.Model):
 class Photo(models.Model):
     tplace = models.ForeignKey(TPlace, related_name='photos', on_delete=models.CASCADE)
     image = models.ImageField(upload_to='photos/')
+
