@@ -1,0 +1,57 @@
+6|Sucre|bolivia/chuquisaca/sucre|La capital constitucional de Bolivia, conocida como la "Ciudad Blanca". No te puedes perder su centro histórico, que es Patrimonio de la Humanidad por la UNESCO.
+6|Tarabuco|bolivia/chuquisaca/tarabuco|Famoso por su mercado dominical, donde los locales venden artesanías y tejidos tradicionales. ¡Ideal para llevarte un recuerdo auténtico!
+6|Parque Cretácico|bolivia/chuquisaca/parque-cretacico|Si te molan los dinosaurios, este es tu lugar. Tiene huellas de dinosaurio reales y réplicas gigantes de estos animales prehistóricos.
+6|Padilla|bolivia/chuquisaca/padilla|Un pueblo conocido por sus hermosos paisajes y la producción de vino y singani. Si te gusta el buen beber, tienes que pasar por aquí.
+6|La Glorieta|bolivia/chuquisaca/la-glorieta|Un castillo de cuento de hadas que fue la residencia de los príncipes de la Glorieta. Es un poco excéntrico y definitivamente único.
+6|Villa Serrano|bolivia/chuquisaca/villa-serrano|Aquí se encuentra el charango más grande del mundo y es un lugar clave para la cultura del charango en Bolivia.
+6|Las Siete Cascadas|bolivia/chuquisaca/las-siete-cascadas|Un conjunto de cascadas cerca de Sucre, ideal para un día de picnic y para refrescarse con un chapuzón.
+6|Zudañez|bolivia/chuquisaca/zudanez|Conocido por sus viñedos y producción de vino, es un lugar perfecto para los amantes del enoturismo.
+6|Huata|bolivia/chuquisaca/huata|Si te gusta la arqueología, aquí puedes encontrar pinturas rupestres y vestigios de culturas antiguas.
+6|Candelaria|bolivia/chuquisaca/candelaria|Este pueblo es famoso por sus tejidos y bordados tradicionales. Si te gusta el arte textil, no te lo puedes perder.
+6|Tarvita|bolivia/chuquisaca/tarvita|Cerca de aquí está la Cueva de los Andes, un sitio arqueológico con pinturas rupestres.
+6|Ravelo|bolivia/chuquisaca/ravelo|Un destino para los que buscan tranquilidad y paisajes naturales, con valles y ríos que son un espectáculo.
+6|Potolo|bolivia/chuquisaca/potolo|Aquí puedes encontrar comunidades que se dedican a la producción de tejidos de alta calidad con diseños tradicionales.
+6|Incahuasi|bolivia/chuquisaca/incahuasi|La "Casa del Inca", con ruinas que son testimonio de la presencia incaica en la región.
+6|Villa Abecia y Las Carreras|bolivia/chuquisaca/villa-abecia-y-las-carreras|Estos dos pueblos son conocidos por sus vinos y singanis de alta calidad, así como por sus paisajes de viñedos.
+6|Jalq'a|bolivia/chuquisaca/jalqa|Esta región es famosa por sus tejidos únicos y su cultura. Los artesanos de aquí crean unas piezas de arte textil que son una locura.
+6|Icla|bolivia/chuquisaca/icla|Un lugar chiquito pero con un encanto especial, rodeado de naturaleza y con una comunidad acogedora.
+6|Villa Charcas|bolivia/chuquisaca/villa-charcas|Un destino más alejado y menos conocido, pero si te gusta explorar y encontrar joyas ocultas, te va a encantar.
+6|San Lucas|bolivia/chuquisaca/san-lucas|Este lugar es conocido por su producción agrícola, pero también por su belleza natural y sus tradiciones.
+6|Alcalá|bolivia/chuquisaca/alcala|Un pueblito pintoresco famoso por sus duraznos. Si vas en temporada, no te puedes perder la oportunidad de probarlos frescos del árbol.
+6|Villa San Cristóbal|bolivia/chuquisaca/villa-san-cristobal|Un lugar tranquilo con una iglesia colonial impresionante y una comunidad que mantiene vivas sus tradiciones.
+6|El Villar|bolivia/chuquisaca/el-villar|Conocido por sus vinos y singanis, también es un lugar con historia y tradiciones que vale la pena conocer.
+6|Azurduy|bolivia/chuquisaca/azurduy|Un pueblo con mucha historia y un paisaje impresionante, perfecto para los que buscan un poco de aventura.
+6|Punilla|bolivia/chuquisaca/punilla|Un valle hermoso que es perfecto para el agroturismo y para conocer más sobre la vida rural en Bolivia.
+6|San Pedro y San Pablo de Huacareta|bolivia/chuquisaca/san-pedro-y-san-pablo-de-huacareta|Conocido por su iglesia colonial y su tranquila vida de pueblo.
+6|Morropequeño|bolivia/chuquisaca/morropequeno|Un sitio arqueológico con pinturas rupestres que te transportan a otro tiempo.
+6|Sucre|bolivia/chuquisaca/sucre|Vale la pena mencionar de nuevo la capital porque siempre hay algo nuevo que descubrir, como sus museos, la Casa de la Libertad o simplemente pasear por sus calles llenas de historia.
+6|Irupana|bolivia/chuquisaca/irupana|No tan conocido por los turistas, pero es un lugar tranquilo con paisajes naturales y una comunidad acogedora.
+6|Villa de la Concepción|bolivia/chuquisaca/villa-de-la-concepcion|Un pueblo con una rica historia y una iglesia impresionante que data del siglo XVIII.
+6|Los Cintis|bolivia/chuquisaca/los-cintis|La región que abarca Camargo, Villa Charcas y otros pueblos es conocida por sus vinos y paisajes de viñedos.
+6|Betanzos|bolivia/chuquisaca/betanzos|Famoso por su mercado tradicional donde puedes encontrar de todo, desde comida hasta artesanías.
+6|San Juan del Oro|bolivia/chuquisaca/san-juan-del-oro|Un lugar con una naturaleza impresionante y oportunidades para hacer turismo de aventura.
+6|Caveguías|bolivia/chuquisaca/caveguias|Un área con cuevas y formaciones geológicas que son un verdadero espectáculo para los amantes de la geología.
+6|El Chaco Chuquisaqueño|bolivia/chuquisaca/el-chaco-chuquisaqueno|Una región con un clima más cálido y una cultura diferente al resto del departamento, ideal para los que buscan experiencias distintas.
+6|La Recoleta|bolivia/chuquisaca/la-recoleta|Un convento en Sucre que ofrece unas vistas increíbles de la ciudad y un lugar tranquilo para pasear.
+6|Cal Orck'o|bolivia/chuquisaca/cal-orcko|Aunque ya mencionamos el Parque Cretácico, Cal Orck'o merece su propio shout-out. Es la pared con huellas de dinosaurio más grande del mundo y está justo al lado de Sucre.
+6|Potosí|bolivia/chuquisaca/potosi|Aunque técnicamente es otro departamento, está muy cerca de Chuquisaca y es famoso por su rica historia minera y su impresionante Cerro Rico.
+6|Sucre Rock Climbing|bolivia/chuquisaca/sucre-rock-climbing|Para los amantes de la escalada, los alrededores de Sucre ofrecen varias paredes de roca que son perfectas para poner a prueba tus habilidades.
+6|Museo de Arte Indígena ASUR|bolivia/chuquisaca/museo-de-arte-indigena-asur|En Sucre, este museo es una ventana a la rica tradición textil de la región, con exposiciones de tejidos y arte indígena.
+6|Cementerio General de Sucre|bolivia/chuquisaca/cementerio-general-de-sucre|Puede sonar un poco macabro, pero este cementerio es un lugar tranquilo y hermoso para pasear, con mausoleos impresionantes y mucha historia.
+6|Río Pilcomayo|bolivia/chuquisaca/rio-pilcomayo|Si te apetece un poco de naturaleza, el río Pilcomayo tiene paisajes naturales y es un lugar importante para la biodiversidad de la región.
+6|Museo Nacional de Etnografía y Folklore (MUSEF)|bolivia/chuquisaca/museo-nacional-de-etnografia-y-folklore-musef|Aunque el principal está en La Paz, la sucursal en Sucre también es un lugar genial para aprender sobre las culturas bolivianas.
+6|Casa de la Libertad|bolivia/chuquisaca/casa-de-la-libertad|Ya la mencioné antes, pero es tan importante que merece otro recordatorio. Aquí se firmó la independencia de Bolivia, y es un lugar lleno de historia y significado.
+6|Mirador de la Recoleta|bolivia/chuquisaca/mirador-de-la-recoleta|Otro lugar en Sucre que ofrece vistas panorámicas de la ciudad, perfecto para fotos y para sentir la vibra de la capital.
+6|Museo del Tesoro|bolivia/chuquisaca/museo-del-tesoro|Un lugar en Sucre donde puedes ver joyas y piezas hechas con los minerales y metales preciosos de Bolivia.
+6|Huellas de Dinosaurios de Niñu Mayu|bolivia/chuquisaca/huellas-de-dinosaurios-de-ninu-mayu|Aunque el Parque Cretácico es más conocido, este sitio también tiene huellas de dinosaurios y es menos turístico.
+6|Museo Charcas (Universidad San Francisco Xavier)|bolivia/chuquisaca/museo-charcas-universidad-san-francisco-xavier|Un museo en Sucre con arte colonial, arte contemporáneo y exposiciones temporales.
+6|Museo de la Catedral|bolivia/chuquisaca/museo-de-la-catedral|En Sucre, este museo alberga arte religioso y tesoros de la catedral metropolitana.
+6|Plaza 25 de Mayo|bolivia/chuquisaca/plaza-25-de-mayo|El corazón de Sucre, rodeado de edificios históricos y un lugar perfecto para sentarse y ver la vida pasar.
+6|Museo de Historia Natural Alcide d'Orbigny|bolivia/chuquisaca/museo-de-historia-natural-alcide-dorbigny|Un museo en Sucre con colecciones de geología, paleontología y biología.
+6|Museo de Santa Clara|bolivia/chuquisaca/museo-de-santa-clara|Otro museo en Sucre, ubicado en un convento, con arte religioso y una iglesia barroca.
+6|Mercado de Tarabuco|bolivia/chuquisaca/mercado-de-tarabuco|Aunque ya lo mencioné, es tan especial que vale la pena recordarlo. Es un mercado indígena donde puedes encontrar textiles y artesanías únicas.
+6|Biblioteca Nacional de Sucre|bolivia/chuquisaca/biblioteca-nacional-de-sucre|Un lugar con mucha historia y una colección impresionante de libros y documentos antiguos.
+6|Museo de Potosí|bolivia/chuquisaca/museo-de-potosi|Si decides hacer una escapada a Potosí, este museo es un must para entender la historia de la minería y la importancia de la ciudad en la época colonial.
+6|Valle de los Cintis|bolivia/chuquisaca/valle-de-los-cintis|Un lugar que no solo es famoso por sus vinos, sino también por sus paisajes de ensueño y pueblos con encanto como Las Carreras y Culpina.
+6|Cueva de Maragua|bolivia/chuquisaca/cueva-de-maragua|Un sitio ideal para los amantes de la espeleología y aquellos interesados en formaciones geológicas y pinturas rupestres.
+6|Museo de la Recoleta|bolivia/chuquisaca/museo-de-la-recoleta|Un museo en Sucre que está en un antiguo convento y ofrece una mezcla de historia, arte y cultura.

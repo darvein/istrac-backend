@@ -28,7 +28,6 @@ class Favorite(models.Model):
 class Category(models.Model):
     name = models.CharField(max_length=100)
     description = models.TextField(blank=True, null=True)
-    # You can add more fields here if you want, like icons or parent categories for nested categories
 
     def __str__(self):
         return self.name
@@ -40,7 +39,7 @@ class Location(models.Model):
     longitude = models.DecimalField(max_digits=9, decimal_places=6, null=True, blank=True)
 
     def __str__(self):
-        return self.name
+        return "{}, {}".format(self.city, self.country)
 
 class Photo(models.Model):
     created_by = models.ForeignKey(User, related_name='photos', on_delete=models.CASCADE, default=settings.DEFAULT_USER_ID)
@@ -70,6 +69,7 @@ class Comment(models.Model):
 
 class TPlace(models.Model):
     name = models.CharField(max_length=200)
+    slug = models.CharField(max_length=200)
     description = models.TextField()
     location = models.ForeignKey(Location, related_name='tplaces', on_delete=models.CASCADE)
     created_by = models.ForeignKey(User, related_name='tplaces', on_delete=models.CASCADE, default=settings.DEFAULT_USER_ID)
@@ -97,4 +97,3 @@ class Event(models.Model):
     def __str__(self):
         #return f"{self.title} at {self.tplace.name} on {self.date.strftime('%Y-%m-%d')}"
         return "event"
-

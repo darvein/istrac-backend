@@ -1,0 +1,20 @@
+9|La Casa Dorada|bolivia/tarija/la-casa-dorada|Un edificio histórico en la ciudad de Tarija que ahora sirve como museo y centro cultural.
+9|El Parque Nacional Serranía del Aguaragüe|bolivia/tarija/el-parque-nacional-serrania-del-aguarague|Ideal para los amantes de la naturaleza y el trekking, con paisajes impresionantes y una rica biodiversidad.
+9|Tomatitas|bolivia/tarija/tomatitas|Un pueblo cerca de la ciudad de Tarija conocido por sus deliciosos pescados de río y su ambiente relajado.
+9|Coimata|bolivia/tarija/coimata|Un área con cascadas y piscinas naturales, ideal para un día de campo y para escapar del calor de la ciudad.
+9|El Angosto de San Juan del Oro|bolivia/tarija/el-angosto-de-san-juan-del-oro|Un cañón impresionante por donde fluye el río Guadalquivir, perfecto para los amantes de la fotografía y la naturaleza.
+9|La Cueva de Coimata|bolivia/tarija/la-cueva-de-coimata|No muy lejos de las cascadas de Coimata, puedes encontrar esta cueva que es un sitio interesante para explorar.
+9|El Museo Paleontológico y Arqueológico de Tarija|bolivia/tarija/el-museo-paleontologico-y-arqueologico-de-tarija|Para los interesados en la historia y la ciencia, este museo ofrece una mirada al pasado prehistórico y cultural de la región.
+9|El Parque de la Flores|bolivia/tarija/el-parque-de-la-flores|Un espacio verde dentro de la ciudad, perfecto para un paseo tranquilo o un picnic en familia.
+9|El Museo Nacional Paleontológico y Arqueológico|bolivia/tarija/el-museo-nacional-paleontologico-y-arqueologico|No confundir con el museo local de Tarija, este museo se encuentra en la localidad de Padcaya y ofrece una colección impresionante de fósiles y artefactos arqueológicos.
+9|El Camino del Inca|bolivia/tarija/el-camino-del-inca|Para los aficionados a la historia, algunas secciones de este antiguo camino atraviesan la región de Tarija y pueden ser exploradas a pie.
+9|El Cerro de la Cruz|bolivia/tarija/el-cerro-de-la-cruz|Un mirador accesible desde la ciudad de Tarija que ofrece vistas panorámicas, especialmente hermosas al atardecer.
+9|El Parque Temático Ojo del Inca|bolivia/tarija/el-parque-tematico-ojo-del-inca|Un lugar místico y relajante donde puedes nadar en aguas termales dentro de un cráter natural que, según la leyenda, era utilizado por el Inca.
+9|El Mirador de la Loma de San Juan|bolivia/tarija/el-mirador-de-la-loma-de-san-juan|Otro punto alto desde donde puedes obtener vistas espectaculares de la ciudad y los alrededores, ideal para los fotógrafos.
+9|El Museo de Artesanía y Arte Popular|bolivia/tarija/el-museo-de-artesania-y-arte-popular|Para conocer más sobre la artesanía local y el arte popular de Tarija y sus alrededores.
+9|El Pueblo de San Lorenzo|bolivia/tarija/el-pueblo-de-san-lorenzo|A pocos kilómetros de la ciudad de Tarija, este pueblo es famoso por su arquitectura colonial y su tranquila atmósfera rural.
+9|El Paseo de la Vendimia|bolivia/tarija/el-paseo-de-la-vendimia|Un recorrido por las calles de Tarija durante la época de la vendimia, donde podrás ver desfiles y carrozas decoradas con motivos de la cosecha.
+9|El Pueblo de Iscayachi|bolivia/tarija/el-pueblo-de-iscayachi|Un lugar con una fuerte tradición en la producción de quesos, ideal para los amantes de este producto.
+9|El Pueblo de Chaguaya|bolivia/tarija/el-pueblo-de-chaguaya|Famoso por su santuario y la peregrinación que se realiza en agosto, es un lugar de gran significado espiritual y cultural.
+9|El Pueblo de El Valle de Tarija|bolivia/tarija/el-pueblo-de-el-valle-de-tarija|No muy lejos de la ciudad, este valle ofrece hermosos paisajes y es ideal para un paseo de día.
+9|El Pueblo de Villamontes|bolivia/tarija/el-pueblo-de-villamontes|Conocido por su clima cálido y la pesca en el río Pilcomayo, es un destino popular para los que buscan un ambiente más tropical.

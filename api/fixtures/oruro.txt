@@ -1,0 +1,44 @@
+3|Parque Nacional Sajama|bolivia/oruro/parque-nacional-sajama|Hogar del nevado Sajama, el pico más alto de Bolivia. Aquí puedes hacer trekking, ver géiseres y aguas termales, y explorar la flora y fauna andina.
+3|Las Aguas Termales de Obrajes|bolivia/oruro/las-aguas-termales-de-obrajes|Ubicadas cerca del Parque Nacional Sajama, son perfectas para un día de relajación.
+3|Reserva Biológica Cordillera de Sama|bolivia/oruro/reserva-biologica-cordillera-de-sama|Aunque está más cerca de Tarija, algunas áreas se extienden hacia Oruro. Es un lugar excelente para el ecoturismo.
+3|Andamarca y la "Ciudad de los Duendes"|bolivia/oruro/andamarca-y-la-ciudad-de-los-duendes|Un lugar mágico con formaciones rocosas que parecen figuras y rostros.
+3|Salinas de Garci Mendoza|bolivia/oruro/salinas-de-garci-mendoza|Si te gustan los paisajes desérticos y las formaciones de sal, este lugar es bastante interesante.
+3|Monumento a la Virgen del Socavón|bolivia/oruro/monumento-a-la-virgen-del-socavon|Ubicado en un mirador sobre la ciudad de Oruro, ofrece una vista panorámica espectacular y es un sitio perfecto para tomar fotos.
+3|Museo Mineralógico y Geológico|bolivia/oruro/museo-mineralogico-y-geologico|Si te pica la curiosidad por las rocas y minerales, este museo en la ciudad de Oruro es un must.
+3|Museo Etnográfico Minero|bolivia/oruro/museo-etnografico-minero|Para entender mejor la vida de los mineros y la importancia de la minería en la región, este museo es super informativo.
+3|Iglesia de Curahuara de Carangas|bolivia/oruro/iglesia-de-curahuara-de-carangas|Conocida como la "Capilla Sixtina de los Andes", sus murales internos son una obra de arte que data del periodo colonial.
+3|Conchupata|bolivia/oruro/conchupata|Aquí se encuentra el histórico Faro de Conchupata, desde donde se izó por primera vez la actual bandera boliviana.
+3|Qala Uta y sus pinturas rupestres|bolivia/oruro/qala-uta-y-sus-pinturas-rupestres|Si te interesa la arqueología y el arte antiguo, este sitio tiene pinturas rupestres que datan de miles de años atrás.
+3|Mirador de Huajara|bolivia/oruro/mirador-de-huajara|Para los amantes de las vistas panorámicas, este mirador ofrece una vista impresionante del altiplano y los nevados circundantes.
+3|Coipasa Salt Flat|bolivia/oruro/coipasa-salt-flat|Aunque el Salar de Uyuni se lleva la fama, el Salar de Coipasa también es un espectáculo natural impresionante y mucho menos concurrido.
+3|Pueblo de Totora|bolivia/oruro/pueblo-de-totora|Un pequeño pueblo con una iglesia colonial y una atmósfera tranquila que te transporta al pasado.
+3|Museo Sacro, Folklórico y Arqueológico de Oruro|bolivia/oruro/museo-sacro-folklorico-y-arqueologico-de-oruro|Para una inmersión cultural completa, este museo ofrece una mirada a la religión, el folklore y la historia de la región.
+3|Jirira en el Salar de Coipasa|bolivia/oruro/jirira-en-el-salar-de-coipasa|Una comunidad pequeña donde puedes experimentar la vida local y aprender sobre la cosecha de la sal.
+3|Pampa Aullagas|bolivia/oruro/pampa-aullagas|Un pueblo cerca de un antiguo lago paleo, con teorías que lo vinculan a la legendaria Atlántida.
+3|Eduardo Avaroa Andean Fauna National Reserve|bolivia/oruro/eduardo-avaroa-andean-fauna-national-reserve|Parte de esta reserva se extiende hasta Oruro, donde puedes ver flamencos y otras especies andinas.
+3|Antequera y su valle de rocas|bolivia/oruro/antequera-y-su-valle-de-rocas|Un lugar con formaciones rocosas únicas que parecen esculturas naturales.
+3|Museo Antropológico Eduardo López Rivas|bolivia/oruro/museo-antropologico-eduardo-lopez-rivas|Un lugar para entender mejor la diversidad cultural de Bolivia, con énfasis en la región de Oruro.
+3|Templo de San Miguel de la Ranchería|bolivia/oruro/templo-de-san-miguel-de-la-rancheria|Un templo colonial que destaca por su arquitectura y arte religioso, ubicado en la ciudad de Oruro.
+3|Parque Zoológico Andino de Oruro|bolivia/oruro/parque-zoologico-andino-de-oruro|Si te gustan los animales, este zoológico se enfoca en especies andinas y es un buen lugar para aprender sobre la fauna local.
+3|Museo Patiño|bolivia/oruro/museo-patino|Dedicado a la vida y obra de Simón I. Patiño, conocido como el "Rey del Estaño", este museo está en una casa que perteneció a la familia Patiño.
+3|Sabaya|bolivia/oruro/sabaya|Un pueblo con una iglesia colonial y paisajes que incluyen el Salar de Coipasa y el volcán Tunupa.
+3|Carangas|bolivia/oruro/carangas|Conocido por la iglesia de Curahuara de Carangas, este pueblo también ofrece paisajes andinos y una atmósfera tranquila.
+3|Chullpas de Macaya|bolivia/oruro/chullpas-de-macaya|Estas torres funerarias preincaicas son un testimonio de las antiguas culturas que habitaron la región.
+3|Orinoca|bolivia/oruro/orinoca|El pueblo natal del expresidente Evo Morales, donde se encuentra el Museo de la Revolución Democrática y Cultural.
+3|Mina de San José|bolivia/oruro/mina-de-san-jose|Si te interesa la minería, puedes hacer un tour por esta mina que aún está en funcionamiento y aprender sobre la dura vida de los mineros bolivianos.
+3|Iglesia de Santa Bárbara|bolivia/oruro/iglesia-de-santa-barbara|Esta iglesia en la ciudad de Oruro es otro ejemplo de la rica arquitectura religiosa de la región.
+3|Museo Arqueológico de Sajama|bolivia/oruro/museo-arqueologico-de-sajama|Situado cerca del Parque Nacional Sajama, este museo muestra artefactos de las culturas que han habitado la zona.
+3|Petroglifos de Orinoca|bolivia/oruro/petroglifos-de-orinoca|Descubre las antiguas inscripciones en piedra dejadas por culturas precolombinas en la región de Orinoca.
+3|Museo de la Llama y la Sal|bolivia/oruro/museo-de-la-llama-y-la-sal|Ubicado en Salinas de Garci Mendoza, este museo es dedicado a la importancia de las llamas y la sal en la cultura andina.
+3|Valle de Azanaques|bolivia/oruro/valle-de-azanaques|Un área con formaciones rocosas y fósiles que es ideal para los interesados en geología y paleontología.
+3|Museo de Arte Contemporáneo "Así es Bolivia"|bolivia/oruro/museo-de-arte-contemporaneo-asi-es-bolivia|Para los amantes del arte moderno, este museo en la ciudad de Oruro ofrece una colección de obras de artistas bolivianos.
+3|Tesoros coloniales en la Iglesia de Soracachi|bolivia/oruro/tesoros-coloniales-en-la-iglesia-de-soracachi|Un pequeño pueblo que alberga una iglesia con tesoros artísticos de la época colonial.
+3|Río Lauca|bolivia/oruro/rio-lauca|Un río que ofrece paisajes naturales y es ideal para actividades al aire libre como la pesca y el camping.
+3|Plaza 10 de Febrero|bolivia/oruro/plaza-10-de-febrero|El corazón de la ciudad de Oruro, un lugar perfecto para sentir el pulso de la ciudad y descansar en uno de sus bancos.
+3|Museo Diocesano de Arte Sacro|bolivia/oruro/museo-diocesano-de-arte-sacro|Otro espacio para apreciar el arte religioso y entender la influencia de la Iglesia en la región.
+3|Mirador de Santa Bárbara|bolivia/oruro/mirador-de-santa-barbara|Desde aquí puedes obtener otra perspectiva de la ciudad de Oruro y sus alrededores, especialmente hermoso al atardecer.
+3|Museo Minero de Oruro|bolivia/oruro/museo-minero-de-oruro|Para entender aún más sobre la historia minera de la región, este museo ofrece exposiciones sobre la extracción de minerales y la vida de los trabajadores de las minas.
+3|Iglesia de Sevaruyo|bolivia/oruro/iglesia-de-sevaruyo|Una iglesia colonial en un pequeño pueblo que ofrece un vistazo a la arquitectura y arte religioso de la época.
+3|Museo de Historia Natural de Oruro|bolivia/oruro/museo-de-historia-natural-de-oruro|Para los interesados en la biodiversidad y geología de la región, este museo tiene colecciones de fósiles, minerales y especímenes de flora y fauna.
+3|Iglesia de Santiago de Huari|bolivia/oruro/iglesia-de-santiago-de-huari|Un templo colonial que destaca por su arquitectura y arte sacro, ubicado en el pueblo de Huari.
+3|Museo Arqueológico y Antropológico de Oruro|bolivia/oruro/museo-arqueologico-y-antropologico-de-oruro|Para profundizar en la historia precolombina y la diversidad étnica de la región, este museo es una parada obligatoria.

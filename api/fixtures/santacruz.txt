@@ -1,0 +1,49 @@
+8|Santa Cruz de la Sierra|bolivia/santacruz/santa-cruz-de-la-sierra|La ciudad misma es un punto de partida genial. Tiene una vibra moderna, con la Plaza 24 de Septiembre y la Catedral de San Lorenzo como puntos clave.
+8|Samaipata|bolivia/santacruz/samaipata|Un pueblito súper encantador en las montañas. No te pierdas el Fuerte de Samaipata, un sitio arqueológico misterioso y Patrimonio de la Humanidad por la UNESCO.
+8|Parque Nacional Amboró|bolivia/santacruz/parque-nacional-amboro|Un paraíso para los amantes de la naturaleza y el trekking, con una biodiversidad alucinante.
+8|Misiones Jesuíticas de Chiquitos|bolivia/santacruz/misiones-jesuiticas-de-chiquitos|Estas iglesias históricas son otra joya Patrimonio de la Humanidad y te cuentan un montón sobre la historia local.
+8|Biocentro Güembé|bolivia/santacruz/biocentro-guembe|Ideal para un día de relax, con piscinas y áreas para observar la flora y fauna local.
+8|Parque Nacional Noel Kempff Mercado|bolivia/santacruz/parque-nacional-noel-kempff-mercado|Es un poco más difícil de llegar, pero vale cada esfuerzo por sus paisajes, cataratas y diversidad de ecosistemas.
+8|Vallegrande|bolivia/santacruz/vallegrande|Conocido por su relación con el Che Guevara, es un lugar lleno de historia y con un ambiente tranquilo.
+8|Lomas de Arena|bolivia/santacruz/lomas-de-arena|Unas dunas de arena espectaculares justo al ladito de la ciudad de Santa Cruz, ideales para una escapada rápida.
+8|Pantanal Boliviano|bolivia/santacruz/pantanal-boliviano|Si te animas a ir más lejos, el Pantanal es una extensión del famoso humedal compartido con Brasil, y es un sitio increíble para ver vida silvestre.
+8|Jardín Botánico de Santa Cruz|bolivia/santacruz/jardin-botanico-de-santa-cruz|Un espacio verde dentro de la ciudad, perfecto para conocer la flora local y respirar aire puro.
+8|Laguna Volcán|bolivia/santacruz/laguna-volcan|Un lugar mágico con una laguna de aguas cristalinas en el cráter de un volcán extinto. Ideal para un día de campo y para darte un chapuzón.
+8|Parque Lomas de Arena|bolivia/santacruz/parque-lomas-de-arena|No confundir con las dunas mencionadas antes, este parque es un área protegida que ofrece la oportunidad de ver una variedad de aves y otros animales.
+8|El Fuerte de Samaipata|bolivia/santacruz/el-fuerte-de-samaipata|Ya lo mencioné, pero vale la pena recalcar que es un sitio arqueológico único con misteriosas esculturas talladas en la roca.
+8|Cotoca|bolivia/santacruz/cotoca|Un pueblito cerca de Santa Cruz conocido por su artesanía, especialmente cerámica, y su iglesia colonial.
+8|Aguas Calientes|bolivia/santacruz/aguas-calientes|Un destino para los que buscan relajarse en aguas termales naturales, ubicado en la provincia de Samaipata.
+8|Parque El Arenal|bolivia/santacruz/parque-el-arenal|En pleno centro de Santa Cruz, es un lugar tranquilo para pasear y escapar del bullicio de la ciudad.
+8|La Higuera|bolivia/santacruz/la-higuera|Este pequeño pueblo es conocido por ser el lugar donde fue capturado y ejecutado el Che Guevara. Hay un museo y varios monumentos dedicados a su memoria.
+8|Parque Ecológico Yvaga Guazú|bolivia/santacruz/parque-ecologico-yvaga-guazu|Un espacio para la conservación y educación ambiental, con senderos y la posibilidad de ver animales en su hábitat natural.
+8|Reserva Natural Tucabaca|bolivia/santacruz/reserva-natural-tucabaca|Un área protegida con valles, ríos y una biodiversidad impresionante, ideal para los amantes de la naturaleza.
+8|Camiri|bolivia/santacruz/camiri|Conocida como la capital petrolera de Bolivia, también es un buen punto de partida para explorar la región del Chaco.
+8|Valle de Tucavaca|bolivia/santacruz/valle-de-tucavaca|Un lugar con paisajes espectaculares, ideal para el ecoturismo y la aventura, con cañones y formaciones rocosas.
+8|Museo de Historia Natural Noel Kempff Mercado|bolivia/santacruz/museo-de-historia-natural-noel-kempff-mercado|Para aprender sobre la biodiversidad de la región sin salir de la ciudad de Santa Cruz.
+8|Parque Nacional Kaa-Iya del Gran Chaco|bolivia/santacruz/parque-nacional-kaaiya-del-gran-chaco|Es el parque nacional más grande de Bolivia y uno de los más grandes de Sudamérica, con una gran variedad de fauna, incluyendo jaguares y pumas.
+8|Centro de Rehabilitación de Aves Rapaces|bolivia/santacruz/centro-de-rehabilitacion-de-aves-rapaces|Si te interesan las aves, especialmente las rapaces, este centro es un lugar genial para aprender sobre su rescate y rehabilitación.
+8|Museo de Arte Sacro de la Catedral|bolivia/santacruz/museo-de-arte-sacro-de-la-catedral|Ubicado en la Catedral de Santa Cruz, este museo alberga arte religioso y piezas históricas de la región.
+8|Pampa de la Isla|bolivia/santacruz/pampa-de-la-isla|Una zona dentro de Santa Cruz de la Sierra conocida por su mercado local y la vida cotidiana de los cruceños.
+8|Museo Etnofolklórico|bolivia/santacruz/museo-etnofolklorico|Para sumergirte en las tradiciones y la cultura de Santa Cruz y de Bolivia en general, este museo es una parada obligatoria.
+8|Porongo|bolivia/santacruz/porongo|Un pueblo cercano a Santa Cruz conocido por su iglesia colonial y su tranquila vida rural.
+8|Río Pirai|bolivia/santacruz/rio-pirai|Un lugar popular entre los locales para escapar del calor, con áreas para hacer picnic, nadar o simplemente relajarse junto al río.
+8|Museo Guarani|bolivia/santacruz/museo-guarani|Si te interesa la cultura indígena, este museo te ofrece una mirada profunda a la vida y costumbres del pueblo guaraní.
+8|Mercado Nuevo de la Ramada|bolivia/santacruz/mercado-nuevo-de-la-ramada|Otro mercado vibrante en Santa Cruz donde puedes encontrar productos frescos, artesanías y mucho más.
+8|Parque Urbano|bolivia/santacruz/parque-urbano|El parque más grande de Santa Cruz, perfecto para hacer deporte, pasear o simplemente tomar un respiro de la ciudad.
+8|Jardín de las Delicias|bolivia/santacruz/jardin-de-las-delicias|Un área natural con cascadas y piscinas naturales, un poco más alejada pero perfecta para los amantes de la aventura.
+8|Cerro Mutún|bolivia/santacruz/cerro-mutun|Conocido por ser una de las reservas de hierro más grandes del mundo, también ofrece vistas panorámicas y la oportunidad de conocer la minería en la región.
+8|Centro de Conservación de Orquídeas|bolivia/santacruz/centro-de-conservacion-de-orquideas|En la localidad de Concepción, este centro se dedica a la preservación de las orquídeas, con una colección impresionante de estas flores.
+8|Parque Nacional y Área Natural de Manejo Integrado San Matías|bolivia/santacruz/parque-nacional-y-area-natural-de-manejo-integrado-san-matias|Un área protegida que es hogar de una gran diversidad de ecosistemas, desde sabanas hasta bosques secos y humedales.
+8|Museo de Historia Natural de la Universidad Autónoma Gabriel René Moreno|bolivia/santacruz/museo-de-historia-natural-de-la-universidad-autonoma-gabriel-rene-moreno|Para una dosis de ciencia y conocimiento sobre la fauna y flora de la región.
+8|Cerro Chochís|bolivia/santacruz/cerro-chochis|Un lugar sagrado y de peregrinación con formaciones rocosas impresionantes y vistas panorámicas.
+8|Parque Nacional y Área de Manejo Integrado Kaa-Iya del Gran Chaco|bolivia/santacruz/parque-nacional-y-area-de-manejo-integrado-kaaiya-del-gran-chaco|Ya mencionado, pero vale la pena recordar que es un lugar increíble para ver fauna en su hábitat natural, como el jaguar y el puma.
+8|Museo de la Revolución|bolivia/santacruz/museo-de-la-revolucion|Ubicado en Vallegrande, este museo cuenta la historia de la presencia del Che Guevara en Bolivia.
+8|Cuevas de Mataral|bolivia/santacruz/cuevas-de-mataral|Un sistema de cuevas cerca de Samaipata que ofrece una aventura espeleológica para los más osados.
+8|Reserva de Vida Silvestre Ríos Blanco y Negro|bolivia/santacruz/reserva-de-vida-silvestre-rios-blanco-y-negro|Un área protegida que alberga una gran diversidad de especies y es ideal para el ecoturismo.
+8|Parque Nacional y Área Natural de Manejo Integrado Serranía del Iñao|bolivia/santacruz/parque-nacional-y-area-natural-de-manejo-integrado-serrania-del-inao|Un área protegida con paisajes espectaculares y una gran biodiversidad.
+8|Museo de Arte Contemporáneo|bolivia/santacruz/museo-de-arte-contemporaneo|En la ciudad de Santa Cruz, este museo ofrece una mirada a la escena artística moderna y contemporánea.
+8|Cerro Bravo|bolivia/santacruz/cerro-bravo|Un destino para los amantes del trekking que buscan vistas impresionantes y un desafío físico.
+8|Valle de la Luna|bolivia/santacruz/valle-de-la-luna|No es tan conocido como su homónimo en La Paz, pero este Valle de la Luna cerca de Santa Cruz también ofrece paisajes lunares y formaciones geológicas interesantes.
+8|Parque Nacional y Área Natural de Manejo Integrado Otuquis|bolivia/santacruz/parque-nacional-y-area-natural-de-manejo-integrado-otuquis|Parte del Pantanal, es un lugar fantástico para ver la vida silvestre en los humedales.
+8|Cerro de los Siete Colores|bolivia/santacruz/cerro-de-los-siete-colores|Ubicado cerca de Samaipata, es un lugar con vistas espectaculares y formaciones rocosas de varios colores.
+8|Museo de Arte Indígena ASUR|bolivia/santacruz/museo-de-arte-indigena-asur|Aunque está más asociado con Sucre, ASUR también tiene presencia en Santa Cruz, mostrando el arte textil y otras formas de arte indígena.

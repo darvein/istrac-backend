@@ -1,0 +1,17 @@
+- model: api.category
+  pk: 1
+  fields: 
+    name: Trekking
+    description: Lugares para poder realizar trekking aventureros
+
+- model: api.category
+  pk: 2
+  fields: 
+    name: Camping
+    description: Lugares ideales para acampar bajo las estrellas
+
+- model: api.category
+  pk: 3
+  fields: 
+    name: Swimming
+    description: Lugar ideal para nadar al aire libre

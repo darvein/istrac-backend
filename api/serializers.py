@@ -73,7 +73,7 @@ class TPlaceSerializer(serializers.ModelSerializer):
 
     class Meta:
         model = TPlace
-        fields = ('id', 'name', 'description', 'location', 'created_by', 
+        fields = ('id', 'name', 'slug', 'description', 'location', 'created_by', 
                   'photos', 'videos', 'comments', 'categories', 'likes', 'favorites')
 
 class EventSerializer(serializers.ModelSerializer):

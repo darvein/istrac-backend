@@ -1,0 +1,63 @@
+- model: api.location
+  pk: 1
+  fields:
+    country: Bolivia
+    city: La Paz
+    latitude: -16.523299
+    longitude: 68.110833
+- model: api.location
+  pk: 2
+  fields:
+    country: Bolivia
+    city: Cochabamba
+    latitude: -16.523299
+    longitude: 68.110833
+- model: api.location
+  pk: 3
+  fields:
+    country: Bolivia
+    city: Oruro
+    latitude: -16.523299
+    longitude: 68.110833
+- model: api.location
+  pk: 4
+  fields:
+    country: Bolivia
+    city: Potosi
+    latitude: -16.523299
+    longitude: 68.110833
+- model: api.location
+  pk: 5
+  fields:
+    country: Bolivia
+    city: Beni
+    latitude: -16.523299
+    longitude: 68.110833
+- model: api.location
+  pk: 6
+  fields:
+    country: Bolivia
+    city: Sucre
+    latitude: -16.523299
+    longitude: 68.110833
+- model: api.location
+  pk: 7
+  fields:
+    country: Bolivia
+    city: Pando
+    latitude: -16.523299
+    longitude: 68.110833
+- model: api.location
+  pk: 8
+  fields:
+    country: Bolivia
+    city: Santa Cruz
+    latitude: -16.523299
+    longitude: 68.110833
+- model: api.location
+  pk: 9
+  fields:
+    country: Bolivia
+    city: Tarija
+    latitude: -16.523299
+    longitude: 68.110833

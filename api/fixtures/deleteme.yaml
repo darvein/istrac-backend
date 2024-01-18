@@ -1,0 +1,376 @@
+- model: api.photo
+  pk: 1
+  fields:
+    image: photos/bolivia/beni/baures/01.jpg
+- model: api.photo
+  pk: 2
+  fields:
+    image: photos/bolivia/beni/baures/02.jpg
+- model: api.photo
+  pk: 3
+  fields:
+    image: photos/bolivia/beni/baures/03.jpg
+- model: api.photo
+  pk: 4
+  fields:
+    image: photos/bolivia/beni/baures/04.jpg
+- model: api.photo
+  pk: 5
+  fields:
+    image: photos/bolivia/beni/baures/05.jpg
+- model: api.photo
+  pk: 6
+  fields:
+    image: photos/bolivia/beni/baures/06.jpg
+- model: api.photo
+  pk: 7
+  fields:
+    image: photos/bolivia/beni/baures/07.jpg
+- model: api.photo
+  pk: 8
+  fields:
+    image: photos/bolivia/beni/baures/08.jpg
+- model: api.photo
+  pk: 9
+  fields:
+    image: photos/bolivia/beni/baures/09.jpg
+- model: api.photo
+  pk: 10
+  fields:
+    image: photos/bolivia/beni/baures/10.jpg
+- model: api.tplace
+  pk: 1
+  fields:
+    name: Baures
+    slug: bolivia/beni/baures
+    description: Famoso por sus ruinas jesuíticas y las misteriosas líneas de Baures, que son geoglifos antiguos que aún hoy generan curiosidad y asombro.
+    location: 1
+    created_by: 1
+    photos: []
+    videos: []
+    comments: []
+    categories: []
+- model: api.photo
+  pk: 11
+  fields:
+    image: photos/bolivia/beni/cachuela-esperanza/01.jpg
+- model: api.photo
+  pk: 12
+  fields:
+    image: photos/bolivia/beni/cachuela-esperanza/02.jpg
+- model: api.photo
+  pk: 13
+  fields:
+    image: photos/bolivia/beni/cachuela-esperanza/03.jpg
+- model: api.photo
+  pk: 14
+  fields:
+    image: photos/bolivia/beni/cachuela-esperanza/04.jpg
+- model: api.photo
+  pk: 15
+  fields:
+    image: photos/bolivia/beni/cachuela-esperanza/05.jpg
+- model: api.photo
+  pk: 16
+  fields:
+    image: photos/bolivia/beni/cachuela-esperanza/06.jpg
+- model: api.tplace
+  pk: 2
+  fields:
+    name: Cachuela Esperanza
+    slug: bolivia/beni/cachuela-esperanza
+    description: Un sitio histórico a orillas del río Beni, conocido por su antigua planta hidroeléctrica y por ser un punto estratégico durante la época del auge del caucho.
+    location: 1
+    created_by: 1
+    photos: []
+    videos: []
+    comments: []
+    categories: []
+- model: api.photo
+  pk: 17
+  fields:
+    image: photos/bolivia/beni/el-parque-nacional-noel-kempff-mercado/01.jpg
+- model: api.photo
+  pk: 18
+  fields:
+    image: photos/bolivia/beni/el-parque-nacional-noel-kempff-mercado/02.jpg
+- model: api.photo
+  pk: 19
+  fields:
+    image: photos/bolivia/beni/el-parque-nacional-noel-kempff-mercado/03.jpg
+- model: api.photo
+  pk: 20
+  fields:
+    image: photos/bolivia/beni/el-parque-nacional-noel-kempff-mercado/04.jpg
+- model: api.photo
+  pk: 21
+  fields:
+    image: photos/bolivia/beni/el-parque-nacional-noel-kempff-mercado/05.jpg
+- model: api.photo
+  pk: 22
+  fields:
+    image: photos/bolivia/beni/el-parque-nacional-noel-kempff-mercado/06.jpg
+- model: api.photo
+  pk: 23
+  fields:
+    image: photos/bolivia/beni/el-parque-nacional-noel-kempff-mercado/07.jpg
+- model: api.photo
+  pk: 24
+  fields:
+    image: photos/bolivia/beni/el-parque-nacional-noel-kempff-mercado/08.jpg
+- model: api.photo
+  pk: 25
+  fields:
+    image: photos/bolivia/beni/el-parque-nacional-noel-kempff-mercado/09.jpg
+- model: api.photo
+  pk: 26
+  fields:
+    image: photos/bolivia/beni/el-parque-nacional-noel-kempff-mercado/10.jpg
+- model: api.tplace
+  pk: 3
+  fields:
+    name: El Parque Nacional Noel Kempff Mercado
+    slug: bolivia/beni/el-parque-nacional-noel-kempff-mercado
+    description: Aunque está más asociado con Santa Cruz, parte de este parque se extiende hasta Beni. Es un lugar de inmensa belleza natural, con cataratas espectaculares como la Catarata Arco Iris y una biodiversidad impresionante.
+    location: 1
+    created_by: 1
+    photos: []
+    videos: []
+    comments: []
+    categories: []
+- model: api.photo
+  pk: 27
+  fields:
+    image: photos/bolivia/beni/guayaramerin/01.jpg
+- model: api.photo
+  pk: 28
+  fields:
+    image: photos/bolivia/beni/guayaramerin/02.jpg
+- model: api.photo
+  pk: 29
+  fields:
+    image: photos/bolivia/beni/guayaramerin/03.jpg
+- model: api.photo
+  pk: 30
+  fields:
+    image: photos/bolivia/beni/guayaramerin/04.jpg
+- model: api.photo
+  pk: 31
+  fields:
+    image: photos/bolivia/beni/guayaramerin/05.jpg
+- model: api.photo
+  pk: 32
+  fields:
+    image: photos/bolivia/beni/guayaramerin/06.jpg
+- model: api.photo
+  pk: 33
+  fields:
+    image: photos/bolivia/beni/guayaramerin/07.jpg
+- model: api.photo
+  pk: 34
+  fields:
+    image: photos/bolivia/beni/guayaramerin/08.jpg
+- model: api.photo
+  pk: 35
+  fields:
+    image: photos/bolivia/beni/guayaramerin/09.jpg
+- model: api.tplace
+  pk: 4
+  fields:
+    name: Guayaramerín
+    slug: bolivia/beni/guayaramerin
+    description: Esta ciudad fronteriza con Brasil es interesante para experimentar la mezcla de culturas y para realizar compras transfronterizas. También es un punto de partida para viajes fluviales.
+    location: 1
+    created_by: 1
+    photos: []
+    videos: []
+    comments: []
+    categories: []
+- model: api.photo
+  pk: 36
+  fields:
+    image: photos/bolivia/beni/moxos-plains/01.jpg
+- model: api.photo
+  pk: 37
+  fields:
+    image: photos/bolivia/beni/moxos-plains/02.jpg
+- model: api.photo
+  pk: 38
+  fields:
+    image: photos/bolivia/beni/moxos-plains/03.jpg
+- model: api.photo
+  pk: 39
+  fields:
+    image: photos/bolivia/beni/moxos-plains/04.jpg
+- model: api.photo
+  pk: 40
+  fields:
+    image: photos/bolivia/beni/moxos-plains/05.jpg
+- model: api.photo
+  pk: 41
+  fields:
+    image: photos/bolivia/beni/moxos-plains/06.jpg
+- model: api.photo
+  pk: 42
+  fields:
+    image: photos/bolivia/beni/moxos-plains/07.jpg
+- model: api.photo
+  pk: 43
+  fields:
+    image: photos/bolivia/beni/moxos-plains/08.jpg
+- model: api.photo
+  pk: 44
+  fields:
+    image: photos/bolivia/beni/moxos-plains/09.jpg
+- model: api.photo
+  pk: 45
+  fields:
+    image: photos/bolivia/beni/moxos-plains/10.jpg
+- model: api.tplace
+  pk: 5
+  fields:
+    name: Moxos Plains
+    slug: bolivia/beni/moxos-plains
+    description: Un extenso humedal que es parte de la llanura de Moxos, conocido por su ecosistema único y por ser un lugar importante para la migración de aves.
+    location: 1
+    created_by: 1
+    photos: []
+    videos: []
+    comments: []
+    categories: []
+- model: api.photo
+  pk: 46
+  fields:
+    image: photos/bolivia/beni/museo-misional-de-san-ignacio-de-moxos/01.jpg
+- model: api.photo
+  pk: 47
+  fields:
+    image: photos/bolivia/beni/museo-misional-de-san-ignacio-de-moxos/02.jpg
+- model: api.photo
+  pk: 48
+  fields:
+    image: photos/bolivia/beni/museo-misional-de-san-ignacio-de-moxos/03.jpg
+- model: api.photo
+  pk: 49
+  fields:
+    image: photos/bolivia/beni/museo-misional-de-san-ignacio-de-moxos/04.jpg
+- model: api.photo
+  pk: 50
+  fields:
+    image: photos/bolivia/beni/museo-misional-de-san-ignacio-de-moxos/05.jpg
+- model: api.photo
+  pk: 51
+  fields:
+    image: photos/bolivia/beni/museo-misional-de-san-ignacio-de-moxos/06.jpg
+- model: api.photo
+  pk: 52
+  fields:
+    image: photos/bolivia/beni/museo-misional-de-san-ignacio-de-moxos/07.jpg
+- model: api.photo
+  pk: 53
+  fields:
+    image: photos/bolivia/beni/museo-misional-de-san-ignacio-de-moxos/08.jpg
+- model: api.photo
+  pk: 54
+  fields:
+    image: photos/bolivia/beni/museo-misional-de-san-ignacio-de-moxos/09.jpg
+- model: api.photo
+  pk: 55
+  fields:
+    image: photos/bolivia/beni/museo-misional-de-san-ignacio-de-moxos/10.jpg
+- model: api.tplace
+  pk: 6
+  fields:
+    name: Museo Misional de San Ignacio de Moxos
+    slug: bolivia/beni/museo-misional-de-san-ignacio-de-moxos
+    description: Para entender mejor la historia de las misiones jesuíticas y su impacto en la región, este museo es una parada obligatoria.
+    location: 1
+    created_by: 1
+    photos: []
+    videos: []
+    comments: []
+    categories: []
+- model: api.photo
+  pk: 56
+  fields:
+    image: photos/bolivia/beni/reserva-de-la-biosfera-estacion-biologica-del-beni/01.jpg
+- model: api.photo
+  pk: 57
+  fields:
+    image: photos/bolivia/beni/reserva-de-la-biosfera-estacion-biologica-del-beni/02.jpg
+- model: api.photo
+  pk: 58
+  fields:
+    image: photos/bolivia/beni/reserva-de-la-biosfera-estacion-biologica-del-beni/03.jpg
+- model: api.photo
+  pk: 59
+  fields:
+    image: photos/bolivia/beni/reserva-de-la-biosfera-estacion-biologica-del-beni/04.jpg
+- model: api.photo
+  pk: 60
+  fields:
+    image: photos/bolivia/beni/reserva-de-la-biosfera-estacion-biologica-del-beni/05.jpg
+- model: api.tplace
+  pk: 7
+  fields:
+    name: Reserva de la Biosfera Estación Biológica del Beni
+    slug: bolivia/beni/reserva-de-la-biosfera-estacion-biologica-del-beni
+    description: Un lugar increíble para ver la sabana del Beni y su ecosistema único, con oportunidades para ver aves y otros animales salvajes.
+    location: 1
+    created_by: 1
+    photos: []
+    videos: []
+    comments: []
+    categories: []
+- model: api.photo
+  pk: 61
+  fields:
+    image: photos/bolivia/beni/reyes/01.jpg
+- model: api.photo
+  pk: 62
+  fields:
+    image: photos/bolivia/beni/reyes/02.jpg
+- model: api.photo
+  pk: 63
+  fields:
+    image: photos/bolivia/beni/reyes/03.jpg
+- model: api.photo
+  pk: 64
+  fields:
+    image: photos/bolivia/beni/reyes/04.jpg
+- model: api.photo
+  pk: 65
+  fields:
+    image: photos/bolivia/beni/reyes/05.jpg
+- model: api.photo
+  pk: 66
+  fields:
+    image: photos/bolivia/beni/reyes/06.jpg
+- model: api.photo
+  pk: 67
+  fields:
+    image: photos/bolivia/beni/reyes/07.jpg
+- model: api.photo
+  pk: 68
+  fields:
+    image: photos/bolivia/beni/reyes/08.jpg
+- model: api.photo
+  pk: 69
+  fields:
+    image: photos/bolivia/beni/reyes/09.jpg
+- model: api.photo
+  pk: 70
+  fields:
+    image: photos/bolivia/beni/reyes/10.jpg
+- model: api.tplace
+  pk: 8
+  fields:
+    name: Reyes
+    slug: bolivia/beni/reyes
+    description: Otro punto de partida para aventuras en la selva y para conocer la cultura de los pueblos indígenas de la región.
+    location: 1
+    created_by: 1
+    photos: []
+    videos: []
+    comments: []
+    categories: []

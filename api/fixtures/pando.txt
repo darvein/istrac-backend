@@ -1,0 +1,27 @@
+7|Cobija|bolivia/pando/cobija|La capital de Pando es un buen punto de partida. Aunque es una ciudad pequeña, tiene su encanto con el río Acre y su vida tranquila.
+7|Parque Nacional Madidi|bolivia/pando/parque-nacional-madidi|Aunque la mayor parte está en La Paz, una porción se extiende hasta Pando. Es uno de los parques más biodiversos del mundo.
+7|Río Tahuamanu|bolivia/pando/rio-tahuamanu|Perfecto para la pesca y paseos en bote, rodeado de una naturaleza exuberante.
+7|Cachuela Esperanza|bolivia/pando/cachuela-esperanza|Un lugar histórico con antiguas instalaciones de una empresa cauchera y una cascada impresionante.
+7|Lago Bay|bolivia/pando/lago-bay|Un hermoso lago rodeado de selva, ideal para la pesca y el ecoturismo.
+7|Bolpebra|bolivia/pando/bolpebra|Es el punto donde convergen Bolivia, Perú y Brasil, y es interesante por su peculiar ubicación geográfica.
+7|Villa Nueva|bolivia/pando/villa-nueva|Es un pequeño pueblo con un encanto especial, rodeado de naturaleza y con una comunidad acogedora.
+7|Fortaleza de Plátanos|bolivia/pando/fortaleza-de-platanos|Un sitio arqueológico que te da una mirada al pasado precolombino de la región.
+7|Chive|bolivia/pando/chive|Este lugar es conocido por sus aguas termales naturales, donde puedes darte un chapuzón y relajarte en medio de la selva.
+7|Comunidad de El Sena|bolivia/pando/comunidad-de-el-sena|Aquí puedes conocer más sobre la cultura indígena de la región y ver cómo es la vida en una comunidad amazónica.
+7|Reserva Nacional de Vida Silvestre Amazónica Manuripi|bolivia/pando/reserva-nacional-de-vida-silvestre-amazonica-manuripi|Aparte de la TCO Manuripi, esta reserva es otro espacio protegido donde la biodiversidad te dejará con la boca abierta.
+7|Extracción de la Castaña en el Bosque de Las Concesiones|bolivia/pando/extraccion-de-la-castana-en-el-bosque-de-las-concesiones|Si te interesa el ecoturismo y la economía sostenible, puedes aprender sobre el proceso de extracción de la castaña, un recurso vital para la economía local.
+7|Pampas del Heath|bolivia/pando/pampas-del-heath|Esta área natural es una sabana tropical que ofrece un contraste sorprendente con la selva circundante y es el hábitat de una fauna única.
+7|Experiencias de turismo comunitario|bolivia/pando/experiencias-de-turismo-comunitario|En varias comunidades de Pando puedes vivir experiencias de turismo comunitario, donde te sumerges en la vida diaria de los habitantes, aprendiendo sobre sus tradiciones, su gastronomía y su relación con la selva.
+7|Turismo de pesca deportiva|bolivia/pando/turismo-de-pesca-deportiva|Los ríos de Pando son ideales para la pesca deportiva, con especies como el dorado, el surubí y el pacú.
+7|Río Madera|bolivia/pando/rio-madera|Este es otro de los grandes ríos amazónicos que atraviesa Pando, y es perfecto para expediciones fluviales y para sentir la magnitud de la Amazonía.
+7|Río Acre|bolivia/pando/rio-acre|Este río no solo es importante para la navegación y la pesca, sino que también tiene un papel histórico en la época del auge del caucho.
+7|Turismo ornitológico|bolivia/pando/turismo-ornitologico|Para los aficionados a las aves, Pando es un paraíso con cientos de especies de aves tropicales que se pueden observar.
+7|Río Las Piedras|bolivia/pando/rio-las-piedras|Este río es ideal para los que buscan un contacto más íntimo con la selva, con posibilidades de avistamiento de vida silvestre y pesca.
+7|Turismo de aventura en el Parque Nacional Madidi|bolivia/pando/turismo-de-aventura-en-el-parque-nacional-madidi|Aunque mencionado antes, vale la pena recalcar que este parque ofrece una de las experiencias de turismo de aventura más intensas en la Amazonía.
+7|Pesca en el Río Abuná|bolivia/pando/pesca-en-el-rio-abuna|Además de ser un río hermoso, es conocido por ser un buen lugar para la pesca de especies amazónicas.
+7|Río Mamoré|bolivia/pando/rio-mamore|Aunque está más asociado con el departamento del Beni, algunas de sus áreas de influencia llegan hasta Pando y son un espectáculo natural.
+7|Turismo gastronómico|bolivia/pando/turismo-gastronomico|No te pierdas la oportunidad de probar platos típicos de la región como el locro de gallina, el masaco de yuca y la patasca.
+7|Río Iaco|bolivia/pando/rio-iaco|Aunque menos conocido, este río es perfecto para aventuras fluviales y para aquellos que buscan una experiencia de turismo más auténtica y menos comercial.
+7|Turismo de supervivencia|bolivia/pando/turismo-de-supervivencia|Para los más aventureros, hay programas que te enseñan técnicas de supervivencia en la selva amazónica.
+7|Río Acre|bolivia/pando/rio-acre|Además de su importancia histórica, el río Acre es un lugar excelente para actividades como la natación y el descanso en sus playas durante la temporada seca.
+7|Río Ivón|bolivia/pando/rio-ivon|Este río es otro tesoro escondido para aquellos que buscan tranquilidad y una experiencia de pesca o navegación más íntima.

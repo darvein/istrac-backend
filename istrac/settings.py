@@ -12,7 +12,9 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
         'istrac.nextbrave.net',
-        'localhost'
+        'localhost',
+        'www.rutazz.com',
+        'rutazz.com'
         ]
 
 # Application definition
@@ -108,6 +110,7 @@ USE_I18N = True
 USE_TZ = True
 
 STATIC_URL = 'static/'
+#STATIC_ROOT = os.path.join(BASE_DIR, 'static')
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
@@ -117,4 +120,4 @@ AWS_S3_REGION_NAME = os.environ.get("AWS_S3_REGION_NAME")
 AWS_DEFAULT_ACL = None
 DEFAULT_FILE_STORAGE = 'storages.backends.s3boto3.S3Boto3Storage'
 
-DEFAULT_USER_ID=1001
+DEFAULT_USER_ID=1

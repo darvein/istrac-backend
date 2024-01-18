@@ -1,0 +1,1838 @@
+- model: api.photo
+  pk: 1
+  fields:
+    created_by: 1
+    image: photos/bolivia/beni/reserva-de-la-biosfera-estacion-biologica-del-beni/01.jpg
+- model: api.photo
+  pk: 2
+  fields:
+    created_by: 1
+    image: photos/bolivia/beni/reserva-de-la-biosfera-estacion-biologica-del-beni/02.jpg
+- model: api.photo
+  pk: 3
+  fields:
+    created_by: 1
+    image: photos/bolivia/beni/reserva-de-la-biosfera-estacion-biologica-del-beni/03.jpg
+- model: api.photo
+  pk: 4
+  fields:
+    created_by: 1
+    image: photos/bolivia/beni/reserva-de-la-biosfera-estacion-biologica-del-beni/04.jpg
+- model: api.photo
+  pk: 5
+  fields:
+    created_by: 1
+    image: photos/bolivia/beni/reserva-de-la-biosfera-estacion-biologica-del-beni/05.jpg
+- model: api.tplace
+  pk: 1
+  fields:
+    name: Reserva de la Biosfera Estación Biológica del Beni
+    description: Un lugar increíble para ver la sabana del Beni y su ecosistema único, con oportunidades para ver aves y otros animales salvajes.
+    location: 5
+    created_by: 1
+    photos: [1,2,3,4,5]
+    videos: []
+    comments: []
+    categories: []
+- model: api.photo
+  pk: 6
+  fields:
+    created_by: 1
+    image: photos/bolivia/beni/reyes/01.jpg
+- model: api.photo
+  pk: 7
+  fields:
+    created_by: 1
+    image: photos/bolivia/beni/reyes/02.jpg
+- model: api.photo
+  pk: 8
+  fields:
+    created_by: 1
+    image: photos/bolivia/beni/reyes/03.jpg
+- model: api.photo
+  pk: 9
+  fields:
+    created_by: 1
+    image: photos/bolivia/beni/reyes/04.jpg
+- model: api.photo
+  pk: 10
+  fields:
+    created_by: 1
+    image: photos/bolivia/beni/reyes/05.jpg
+- model: api.photo
+  pk: 11
+  fields:
+    created_by: 1
+    image: photos/bolivia/beni/reyes/06.jpg
+- model: api.photo
+  pk: 12
+  fields:
+    created_by: 1
+    image: photos/bolivia/beni/reyes/07.jpg
+- model: api.photo
+  pk: 13
+  fields:
+    created_by: 1
+    image: photos/bolivia/beni/reyes/08.jpg
+- model: api.photo
+  pk: 14
+  fields:
+    created_by: 1
+    image: photos/bolivia/beni/reyes/09.jpg
+- model: api.photo
+  pk: 15
+  fields:
+    created_by: 1
+    image: photos/bolivia/beni/reyes/10.jpg
+- model: api.tplace
+  pk: 2
+  fields:
+    name: Reyes
+    description: Otro punto de partida para aventuras en la selva y para conocer la cultura de los pueblos indígenas de la región.
+    location: 5
+    created_by: 1
+    photos: [6,7,8,9,10,11,12,13,14,15]
+    videos: []
+    comments: []
+    categories: []
+- model: api.photo
+  pk: 16
+  fields:
+    created_by: 1
+    image: photos/bolivia/beni/cachuela-esperanza/01.jpg
+- model: api.photo
+  pk: 17
+  fields:
+    created_by: 1
+    image: photos/bolivia/beni/cachuela-esperanza/02.jpg
+- model: api.photo
+  pk: 18
+  fields:
+    created_by: 1
+    image: photos/bolivia/beni/cachuela-esperanza/03.jpg
+- model: api.photo
+  pk: 19
+  fields:
+    created_by: 1
+    image: photos/bolivia/beni/cachuela-esperanza/04.jpg
+- model: api.photo
+  pk: 20
+  fields:
+    created_by: 1
+    image: photos/bolivia/beni/cachuela-esperanza/05.jpg
+- model: api.photo
+  pk: 21
+  fields:
+    created_by: 1
+    image: photos/bolivia/beni/cachuela-esperanza/06.jpg
+- model: api.tplace
+  pk: 3
+  fields:
+    name: Cachuela Esperanza
+    description: Un sitio histórico a orillas del río Beni, conocido por su antigua planta hidroeléctrica y por ser un punto estratégico durante la época del auge del caucho.
+    location: 5
+    created_by: 1
+    photos: [16,17,18,19,20,21]
+    videos: []
+    comments: []
+    categories: []
+- model: api.photo
+  pk: 22
+  fields:
+    created_by: 1
+    image: photos/bolivia/beni/baures/01.jpg
+- model: api.photo
+  pk: 23
+  fields:
+    created_by: 1
+    image: photos/bolivia/beni/baures/02.jpg
+- model: api.photo
+  pk: 24
+  fields:
+    created_by: 1
+    image: photos/bolivia/beni/baures/03.jpg
+- model: api.photo
+  pk: 25
+  fields:
+    created_by: 1
+    image: photos/bolivia/beni/baures/04.jpg
+- model: api.photo
+  pk: 26
+  fields:
+    created_by: 1
+    image: photos/bolivia/beni/baures/05.jpg
+- model: api.photo
+  pk: 27
+  fields:
+    created_by: 1
+    image: photos/bolivia/beni/baures/06.jpg
+- model: api.photo
+  pk: 28
+  fields:
+    created_by: 1
+    image: photos/bolivia/beni/baures/07.jpg
+- model: api.photo
+  pk: 29
+  fields:
+    created_by: 1
+    image: photos/bolivia/beni/baures/08.jpg
+- model: api.photo
+  pk: 30
+  fields:
+    created_by: 1
+    image: photos/bolivia/beni/baures/09.jpg
+- model: api.photo
+  pk: 31
+  fields:
+    created_by: 1
+    image: photos/bolivia/beni/baures/10.jpg
+- model: api.tplace
+  pk: 4
+  fields:
+    name: Baures
+    description: Famoso por sus ruinas jesuíticas y las misteriosas líneas de Baures, que son geoglifos antiguos que aún hoy generan curiosidad y asombro.
+    location: 5
+    created_by: 1
+    photos: [22,23,24,25,26,27,28,29,30,31]
+    videos: []
+    comments: []
+    categories: []
+- model: api.photo
+  pk: 32
+  fields:
+    created_by: 1
+    image: photos/bolivia/beni/el-parque-nacional-noel-kempff-mercado/01.jpg
+- model: api.photo
+  pk: 33
+  fields:
+    created_by: 1
+    image: photos/bolivia/beni/el-parque-nacional-noel-kempff-mercado/02.jpg
+- model: api.photo
+  pk: 34
+  fields:
+    created_by: 1
+    image: photos/bolivia/beni/el-parque-nacional-noel-kempff-mercado/03.jpg
+- model: api.photo
+  pk: 35
+  fields:
+    created_by: 1
+    image: photos/bolivia/beni/el-parque-nacional-noel-kempff-mercado/04.jpg
+- model: api.photo
+  pk: 36
+  fields:
+    created_by: 1
+    image: photos/bolivia/beni/el-parque-nacional-noel-kempff-mercado/05.jpg
+- model: api.photo
+  pk: 37
+  fields:
+    created_by: 1
+    image: photos/bolivia/beni/el-parque-nacional-noel-kempff-mercado/06.jpg
+- model: api.photo
+  pk: 38
+  fields:
+    created_by: 1
+    image: photos/bolivia/beni/el-parque-nacional-noel-kempff-mercado/07.jpg
+- model: api.photo
+  pk: 39
+  fields:
+    created_by: 1
+    image: photos/bolivia/beni/el-parque-nacional-noel-kempff-mercado/08.jpg
+- model: api.photo
+  pk: 40
+  fields:
+    created_by: 1
+    image: photos/bolivia/beni/el-parque-nacional-noel-kempff-mercado/09.jpg
+- model: api.photo
+  pk: 41
+  fields:
+    created_by: 1
+    image: photos/bolivia/beni/el-parque-nacional-noel-kempff-mercado/10.jpg
+- model: api.tplace
+  pk: 5
+  fields:
+    name: El Parque Nacional Noel Kempff Mercado
+    description: Aunque está más asociado con Santa Cruz, parte de este parque se extiende hasta Beni. Es un lugar de inmensa belleza natural, con cataratas espectaculares como la Catarata Arco Iris y una biodiversidad impresionante.
+    location: 5
+    created_by: 1
+    photos: [32,33,34,35,36,37,38,39,40,41]
+    videos: []
+    comments: []
+    categories: []
+- model: api.photo
+  pk: 42
+  fields:
+    created_by: 1
+    image: photos/bolivia/beni/guayaramerin/01.jpg
+- model: api.photo
+  pk: 43
+  fields:
+    created_by: 1
+    image: photos/bolivia/beni/guayaramerin/02.jpg
+- model: api.photo
+  pk: 44
+  fields:
+    created_by: 1
+    image: photos/bolivia/beni/guayaramerin/03.jpg
+- model: api.photo
+  pk: 45
+  fields:
+    created_by: 1
+    image: photos/bolivia/beni/guayaramerin/04.jpg
+- model: api.photo
+  pk: 46
+  fields:
+    created_by: 1
+    image: photos/bolivia/beni/guayaramerin/05.jpg
+- model: api.photo
+  pk: 47
+  fields:
+    created_by: 1
+    image: photos/bolivia/beni/guayaramerin/06.jpg
+- model: api.photo
+  pk: 48
+  fields:
+    created_by: 1
+    image: photos/bolivia/beni/guayaramerin/07.jpg
+- model: api.photo
+  pk: 49
+  fields:
+    created_by: 1
+    image: photos/bolivia/beni/guayaramerin/08.jpg
+- model: api.photo
+  pk: 50
+  fields:
+    created_by: 1
+    image: photos/bolivia/beni/guayaramerin/09.jpg
+- model: api.tplace
+  pk: 6
+  fields:
+    name: Guayaramerín
+    description: Esta ciudad fronteriza con Brasil es interesante para experimentar la mezcla de culturas y para realizar compras transfronterizas. También es un punto de partida para viajes fluviales.
+    location: 5
+    created_by: 1
+    photos: [42,43,44,45,46,47,48,49,50]
+    videos: []
+    comments: []
+    categories: []
+- model: api.photo
+  pk: 51
+  fields:
+    created_by: 1
+    image: photos/bolivia/beni/san-borja/01.jpg
+- model: api.photo
+  pk: 52
+  fields:
+    created_by: 1
+    image: photos/bolivia/beni/san-borja/02.jpg
+- model: api.photo
+  pk: 53
+  fields:
+    created_by: 1
+    image: photos/bolivia/beni/san-borja/03.jpg
+- model: api.photo
+  pk: 54
+  fields:
+    created_by: 1
+    image: photos/bolivia/beni/san-borja/04.jpg
+- model: api.photo
+  pk: 55
+  fields:
+    created_by: 1
+    image: photos/bolivia/beni/san-borja/05.jpg
+- model: api.photo
+  pk: 56
+  fields:
+    created_by: 1
+    image: photos/bolivia/beni/san-borja/06.jpg
+- model: api.photo
+  pk: 57
+  fields:
+    created_by: 1
+    image: photos/bolivia/beni/san-borja/07.jpg
+- model: api.photo
+  pk: 58
+  fields:
+    created_by: 1
+    image: photos/bolivia/beni/san-borja/08.jpg
+- model: api.photo
+  pk: 59
+  fields:
+    created_by: 1
+    image: photos/bolivia/beni/san-borja/09.jpg
+- model: api.tplace
+  pk: 7
+  fields:
+    name: San Borja
+    description: Un punto de partida para aventuras en la selva y para conocer más sobre la cultura de los pueblos indígenas de la Amazonía boliviana.
+    location: 5
+    created_by: 1
+    photos: [51,52,53,54,55,56,57,58,59]
+    videos: []
+    comments: []
+    categories: []
+- model: api.photo
+  pk: 60
+  fields:
+    created_by: 1
+    image: photos/bolivia/beni/moxos-plains/01.jpg
+- model: api.photo
+  pk: 61
+  fields:
+    created_by: 1
+    image: photos/bolivia/beni/moxos-plains/02.jpg
+- model: api.photo
+  pk: 62
+  fields:
+    created_by: 1
+    image: photos/bolivia/beni/moxos-plains/03.jpg
+- model: api.photo
+  pk: 63
+  fields:
+    created_by: 1
+    image: photos/bolivia/beni/moxos-plains/04.jpg
+- model: api.photo
+  pk: 64
+  fields:
+    created_by: 1
+    image: photos/bolivia/beni/moxos-plains/05.jpg
+- model: api.photo
+  pk: 65
+  fields:
+    created_by: 1
+    image: photos/bolivia/beni/moxos-plains/06.jpg
+- model: api.photo
+  pk: 66
+  fields:
+    created_by: 1
+    image: photos/bolivia/beni/moxos-plains/07.jpg
+- model: api.photo
+  pk: 67
+  fields:
+    created_by: 1
+    image: photos/bolivia/beni/moxos-plains/08.jpg
+- model: api.photo
+  pk: 68
+  fields:
+    created_by: 1
+    image: photos/bolivia/beni/moxos-plains/09.jpg
+- model: api.photo
+  pk: 69
+  fields:
+    created_by: 1
+    image: photos/bolivia/beni/moxos-plains/10.jpg
+- model: api.tplace
+  pk: 8
+  fields:
+    name: Moxos Plains
+    description: Un extenso humedal que es parte de la llanura de Moxos, conocido por su ecosistema único y por ser un lugar importante para la migración de aves.
+    location: 5
+    created_by: 1
+    photos: [60,61,62,63,64,65,66,67,68,69]
+    videos: []
+    comments: []
+    categories: []
+- model: api.photo
+  pk: 70
+  fields:
+    created_by: 1
+    image: photos/bolivia/beni/museo-misional-de-san-ignacio-de-moxos/01.jpg
+- model: api.photo
+  pk: 71
+  fields:
+    created_by: 1
+    image: photos/bolivia/beni/museo-misional-de-san-ignacio-de-moxos/02.jpg
+- model: api.photo
+  pk: 72
+  fields:
+    created_by: 1
+    image: photos/bolivia/beni/museo-misional-de-san-ignacio-de-moxos/03.jpg
+- model: api.photo
+  pk: 73
+  fields:
+    created_by: 1
+    image: photos/bolivia/beni/museo-misional-de-san-ignacio-de-moxos/04.jpg
+- model: api.photo
+  pk: 74
+  fields:
+    created_by: 1
+    image: photos/bolivia/beni/museo-misional-de-san-ignacio-de-moxos/05.jpg
+- model: api.photo
+  pk: 75
+  fields:
+    created_by: 1
+    image: photos/bolivia/beni/museo-misional-de-san-ignacio-de-moxos/06.jpg
+- model: api.photo
+  pk: 76
+  fields:
+    created_by: 1
+    image: photos/bolivia/beni/museo-misional-de-san-ignacio-de-moxos/07.jpg
+- model: api.photo
+  pk: 77
+  fields:
+    created_by: 1
+    image: photos/bolivia/beni/museo-misional-de-san-ignacio-de-moxos/08.jpg
+- model: api.photo
+  pk: 78
+  fields:
+    created_by: 1
+    image: photos/bolivia/beni/museo-misional-de-san-ignacio-de-moxos/09.jpg
+- model: api.photo
+  pk: 79
+  fields:
+    created_by: 1
+    image: photos/bolivia/beni/museo-misional-de-san-ignacio-de-moxos/10.jpg
+- model: api.tplace
+  pk: 9
+  fields:
+    name: Museo Misional de San Ignacio de Moxos
+    description: Para entender mejor la historia de las misiones jesuíticas y su impacto en la región, este museo es una parada obligatoria.
+    location: 5
+    created_by: 1
+    photos: [70,71,72,73,74,75,76,77,78,79]
+    videos: []
+    comments: []
+    categories: []
+- model: api.photo
+  pk: 80
+  fields:
+    created_by: 1
+    image: photos/bolivia/cochabamba/la-ciudad-de-cochabamba/cochabamba-1.jpg
+- model: api.photo
+  pk: 81
+  fields:
+    created_by: 1
+    image: photos/bolivia/cochabamba/la-ciudad-de-cochabamba/cochabamba-2.jpg
+- model: api.photo
+  pk: 82
+  fields:
+    created_by: 1
+    image: photos/bolivia/cochabamba/la-ciudad-de-cochabamba/cochabamba-3.jpg
+- model: api.photo
+  pk: 83
+  fields:
+    created_by: 1
+    image: photos/bolivia/cochabamba/la-ciudad-de-cochabamba/cochabamba-4.jpg
+- model: api.photo
+  pk: 84
+  fields:
+    created_by: 1
+    image: photos/bolivia/cochabamba/la-ciudad-de-cochabamba/cochabamba-5.jpg
+- model: api.photo
+  pk: 85
+  fields:
+    created_by: 1
+    image: photos/bolivia/cochabamba/la-ciudad-de-cochabamba/cochabamba-6.jpg
+- model: api.photo
+  pk: 86
+  fields:
+    created_by: 1
+    image: photos/bolivia/cochabamba/la-ciudad-de-cochabamba/cochabamba-7.jpg
+- model: api.photo
+  pk: 87
+  fields:
+    created_by: 1
+    image: photos/bolivia/cochabamba/la-ciudad-de-cochabamba/cochabamba.jpg
+- model: api.photo
+  pk: 88
+  fields:
+    created_by: 1
+    image: photos/bolivia/cochabamba/la-ciudad-de-cochabamba/Vista_de_Cochabamba_desde_el_Cerro_San_Pedro.jpg
+- model: api.tplace
+  pk: 10
+  fields:
+    name: La ciudad de Cochabamba
+    description: Conocida como la "Ciudad de la Eterna Primavera" por su clima agradable. No te pierdas el Cristo de la Concordia, que es incluso más grande que el Cristo Redentor de Brasil.
+    location: 2
+    created_by: 1
+    photos: [80,81,82,83,84,85,86,87,88]
+    videos: []
+    comments: []
+    categories: []
+- model: api.photo
+  pk: 89
+  fields:
+    created_by: 1
+    image: photos/bolivia/cochabamba/quillacollo/2021121921592923106.jpg
+- model: api.photo
+  pk: 90
+  fields:
+    created_by: 1
+    image: photos/bolivia/cochabamba/quillacollo/296879705_7790092281061848_5123735124143438920_n.jpg
+- model: api.photo
+  pk: 91
+  fields:
+    created_by: 1
+    image: photos/bolivia/cochabamba/quillacollo/Alejo_Calatayud.jpg
+- model: api.photo
+  pk: 92
+  fields:
+    created_by: 1
+    image: photos/bolivia/cochabamba/quillacollo/mDr8Ijm.jpg
+- model: api.photo
+  pk: 93
+  fields:
+    created_by: 1
+    image: photos/bolivia/cochabamba/quillacollo/quila_1354790228_760x520.jpg
+- model: api.photo
+  pk: 94
+  fields:
+    created_by: 1
+    image: photos/bolivia/cochabamba/quillacollo/quillacollo_actos.jpg
+- model: api.photo
+  pk: 95
+  fields:
+    created_by: 1
+    image: photos/bolivia/cochabamba/quillacollo/quillacollo_panoramica_gamq_ed.jpg
+- model: api.photo
+  pk: 96
+  fields:
+    created_by: 1
+    image: photos/bolivia/cochabamba/quillacollo/WhatsApp-Image-2023-06-29-at-11.00.33.jpg
+- model: api.tplace
+  pk: 11
+  fields:
+    name: Quillacollo
+    description: Famoso por su festividad religiosa de la Virgen de Urkupiña, que atrae a miles de peregrinos y turistas cada año.
+    location: 2
+    created_by: 1
+    photos: [89,90,91,92,93,94,95,96]
+    videos: []
+    comments: []
+    categories: []
+- model: api.photo
+  pk: 97
+  fields:
+    created_by: 1
+    image: photos/bolivia/cochabamba/mizque/mizque-1.jpg
+- model: api.photo
+  pk: 98
+  fields:
+    created_by: 1
+    image: photos/bolivia/cochabamba/mizque/mizque-2.jpg
+- model: api.photo
+  pk: 99
+  fields:
+    created_by: 1
+    image: photos/bolivia/cochabamba/mizque/mizque-3.jpg
+- model: api.photo
+  pk: 100
+  fields:
+    created_by: 1
+    image: photos/bolivia/cochabamba/mizque/mizque-4.jpg
+- model: api.photo
+  pk: 101
+  fields:
+    created_by: 1
+    image: photos/bolivia/cochabamba/mizque/mizque-5.jpg
+- model: api.photo
+  pk: 102
+  fields:
+    created_by: 1
+    image: photos/bolivia/cochabamba/mizque/mizque-6.jpg
+- model: api.photo
+  pk: 103
+  fields:
+    created_by: 1
+    image: photos/bolivia/cochabamba/mizque/mizque.jpg
+- model: api.tplace
+  pk: 12
+  fields:
+    name: Mizque
+    description: Un pueblo con un encanto especial, rico en historia y tradiciones, donde puedes aprender más sobre la cultura local y probar vinos y singanis de la región.
+    location: 2
+    created_by: 1
+    photos: [97,98,99,100,101,102,103]
+    videos: []
+    comments: []
+    categories: []
+- model: api.photo
+  pk: 104
+  fields:
+    created_by: 1
+    image: photos/bolivia/cochabamba/el-cristo-de-la-concordia/sergio-otoya-k_jAIIV_EFM-unsplash.jpg
+- model: api.tplace
+  pk: 13
+  fields:
+    name: El Cristo de la Concordia
+    description: Aunque ya lo mencioné, vale la pena recalcar que puedes subir en teleférico o por las escaleras si te animas a un poco de ejercicio. La vista de la ciudad desde arriba es impresionante.
+    location: 2
+    created_by: 1
+    photos: [104]
+    videos: []
+    comments: []
+    categories: []
+- model: api.photo
+  pk: 105
+  fields:
+    created_by: 1
+    image: photos/bolivia/cochabamba/arani/arani-1.jpg
+- model: api.photo
+  pk: 106
+  fields:
+    created_by: 1
+    image: photos/bolivia/cochabamba/arani/arani-2.jpg
+- model: api.photo
+  pk: 107
+  fields:
+    created_by: 1
+    image: photos/bolivia/cochabamba/arani/arani-3.jpg
+- model: api.photo
+  pk: 108
+  fields:
+    created_by: 1
+    image: photos/bolivia/cochabamba/arani/arani-4.jpg
+- model: api.photo
+  pk: 109
+  fields:
+    created_by: 1
+    image: photos/bolivia/cochabamba/arani/arani-5.jpg
+- model: api.photo
+  pk: 110
+  fields:
+    created_by: 1
+    image: photos/bolivia/cochabamba/arani/arani-6.jpg
+- model: api.photo
+  pk: 111
+  fields:
+    created_by: 1
+    image: photos/bolivia/cochabamba/arani/arani-7.jpg
+- model: api.photo
+  pk: 112
+  fields:
+    created_by: 1
+    image: photos/bolivia/cochabamba/arani/arani.jpg
+- model: api.tplace
+  pk: 14
+  fields:
+    name: Arani
+    description: Famoso por su pan, considerado uno de los mejores de Bolivia. Si pasas por aquí, no te olvides de probar un pan de arani recién horneado.
+    location: 2
+    created_by: 1
+    photos: [105,106,107,108,109,110,111,112]
+    videos: []
+    comments: []
+    categories: []
+- model: api.photo
+  pk: 113
+  fields:
+    created_by: 1
+    image: photos/bolivia/cochabamba/cerro-tunari/EAU9ufdXsAAtSu8.jpg
+- model: api.photo
+  pk: 114
+  fields:
+    created_by: 1
+    image: photos/bolivia/cochabamba/cerro-tunari/IMG_7194-1024x768.jpg
+- model: api.photo
+  pk: 115
+  fields:
+    created_by: 1
+    image: photos/bolivia/cochabamba/cerro-tunari/parque-nacional-tunari.jpg
+- model: api.photo
+  pk: 116
+  fields:
+    created_by: 1
+    image: photos/bolivia/cochabamba/cerro-tunari/pico-tunari.jpg
+- model: api.photo
+  pk: 117
+  fields:
+    created_by: 1
+    image: photos/bolivia/cochabamba/cerro-tunari/Tunari-National-Park-Bolivia.jpg
+- model: api.photo
+  pk: 118
+  fields:
+    created_by: 1
+    image: photos/bolivia/cochabamba/cerro-tunari/Tunari-Peak-Tour-1.jpg
+- model: api.photo
+  pk: 119
+  fields:
+    created_by: 1
+    image: photos/bolivia/cochabamba/cerro-tunari/view-from-cerro-tunari.jpg
+- model: api.tplace
+  pk: 15
+  fields:
+    name: Cerro Tunari
+    description: El punto más alto de la cordillera de Cochabamba, es un desafío para los escaladores y ofrece vistas impresionantes de los valles circundantes.
+    location: 2
+    created_by: 1
+    photos: [113,114,115,116,117,118,119]
+    videos: []
+    comments: []
+    categories: []
+- model: api.photo
+  pk: 120
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/la-ciudad-de-la-paz/01.jpg
+- model: api.photo
+  pk: 121
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/la-ciudad-de-la-paz/02.jpg
+- model: api.photo
+  pk: 122
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/la-ciudad-de-la-paz/03.jpg
+- model: api.photo
+  pk: 123
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/la-ciudad-de-la-paz/04.jpg
+- model: api.photo
+  pk: 124
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/la-ciudad-de-la-paz/05.jpg
+- model: api.photo
+  pk: 125
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/la-ciudad-de-la-paz/06.jpg
+- model: api.photo
+  pk: 126
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/la-ciudad-de-la-paz/07.jpg
+- model: api.photo
+  pk: 127
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/la-ciudad-de-la-paz/08.jpg
+- model: api.photo
+  pk: 128
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/la-ciudad-de-la-paz/09.jpg
+- model: api.photo
+  pk: 129
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/la-ciudad-de-la-paz/10.jpg
+- model: api.photo
+  pk: 130
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/la-ciudad-de-la-paz/11.jpg
+- model: api.photo
+  pk: 131
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/la-ciudad-de-la-paz/12.jpg
+- model: api.photo
+  pk: 132
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/la-ciudad-de-la-paz/13.jpg
+- model: api.photo
+  pk: 133
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/la-ciudad-de-la-paz/14.jpg
+- model: api.photo
+  pk: 134
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/la-ciudad-de-la-paz/15.jpg
+- model: api.photo
+  pk: 135
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/la-ciudad-de-la-paz/16.jpg
+- model: api.photo
+  pk: 136
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/la-ciudad-de-la-paz/17.jpg
+- model: api.photo
+  pk: 137
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/la-ciudad-de-la-paz/18.jpg
+- model: api.photo
+  pk: 138
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/la-ciudad-de-la-paz/19.jpg
+- model: api.photo
+  pk: 139
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/la-ciudad-de-la-paz/20.jpg
+- model: api.photo
+  pk: 140
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/la-ciudad-de-la-paz/21.jpg
+- model: api.photo
+  pk: 141
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/la-ciudad-de-la-paz/22.jpg
+- model: api.photo
+  pk: 142
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/la-ciudad-de-la-paz/23.jpg
+- model: api.photo
+  pk: 143
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/la-ciudad-de-la-paz/24.jpg
+- model: api.photo
+  pk: 144
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/la-ciudad-de-la-paz/25.jpg
+- model: api.photo
+  pk: 145
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/la-ciudad-de-la-paz/26.jpg
+- model: api.tplace
+  pk: 16
+  fields:
+    name: La ciudad de La Paz
+    description: No puedes perderte el caos hermoso de la sede de gobierno de Bolivia, con su famoso Mercado de las Brujas, el teleférico con vistas impresionantes y la vibrante cultura callejera.
+    location: 1
+    created_by: 1
+    photos: [120,121,122,123,124,125,126,127,128,129,130,131,132,133,134,135,136,137,138,139,140,141,142,143,144,145]
+    videos: []
+    comments: []
+    categories: []
+- model: api.photo
+  pk: 146
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/tiwanaku/01.jpg
+- model: api.photo
+  pk: 147
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/tiwanaku/02.jpg
+- model: api.photo
+  pk: 148
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/tiwanaku/3070f41d-7647-4e26-9adb-df7536fe8e5b_rw_1920.jpg
+- model: api.photo
+  pk: 149
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/tiwanaku/48a6fb71-546e-4a0e-ba76-a5f0ecdf738e_rw_1920.jpg
+- model: api.photo
+  pk: 150
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/tiwanaku/889de5fc-ab2d-4b1d-87db-8aca073cbdba_rw_1920.jpg
+- model: api.tplace
+  pk: 17
+  fields:
+    name: Tiwanaku
+    description: Un sitio arqueológico preincaico que es Patrimonio de la Humanidad. Está cerca del Lago Titicaca y es un lugar lleno de misterios y ruinas antiguas.
+    location: 1
+    created_by: 1
+    photos: [146,147,148,149,150]
+    videos: []
+    comments: []
+    categories: []
+- model: api.photo
+  pk: 151
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/valle-de-la-luna/01.jpg
+- model: api.photo
+  pk: 152
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/valle-de-la-luna/02.jpg
+- model: api.photo
+  pk: 153
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/valle-de-la-luna/03.jpg
+- model: api.photo
+  pk: 154
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/valle-de-la-luna/04.jpg
+- model: api.photo
+  pk: 155
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/valle-de-la-luna/05.jpg
+- model: api.photo
+  pk: 156
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/valle-de-la-luna/06.jpg
+- model: api.photo
+  pk: 157
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/valle-de-la-luna/07.jpg
+- model: api.photo
+  pk: 158
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/valle-de-la-luna/08.jpg
+- model: api.photo
+  pk: 159
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/valle-de-la-luna/09.jpg
+- model: api.tplace
+  pk: 18
+  fields:
+    name: Valle de la Luna
+    description: Un área de formaciones geológicas que te hacen sentir como si estuvieras caminando en la superficie lunar, está muy cerca de la ciudad de La Paz.
+    location: 1
+    created_by: 1
+    photos: [151,152,153,154,155,156,157,158,159]
+    videos: []
+    comments: []
+    categories: []
+- model: api.photo
+  pk: 160
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/la-cumbre/4565f703-031f-4fba-9fac-ba9d0b408225.jpg
+- model: api.photo
+  pk: 161
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/la-cumbre/a7d5a205-001d-48d9-920d-ebfc68745a46.jpg
+- model: api.photo
+  pk: 162
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/la-cumbre/f2cccbc9-7580-4e05-aa4c-10d0a61b1efd.jpg
+- model: api.tplace
+  pk: 19
+  fields:
+    name: La Cumbre
+    description: Un punto alto en la carretera que conecta La Paz con los Yungas, donde puedes sentir el frío de la altitud y ver paisajes de montaña espectaculares.
+    location: 1
+    created_by: 1
+    photos: [160,161,162]
+    videos: []
+    comments: []
+    categories: []
+- model: api.photo
+  pk: 163
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/rurrenabaque/bdf739f2-84b2-4594-98c6-98b469da9395_rw_1920.jpg
+- model: api.tplace
+  pk: 20
+  fields:
+    name: Rurrenabaque
+    description: La puerta de entrada a la Amazonía boliviana, desde donde puedes lanzarte a aventuras en la selva o en los pampas.
+    location: 1
+    created_by: 1
+    photos: [163]
+    videos: []
+    comments: []
+    categories: []
+- model: api.photo
+  pk: 164
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/la-muela-del-diablo/01.jpg
+- model: api.photo
+  pk: 165
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/la-muela-del-diablo/02.jpg
+- model: api.photo
+  pk: 166
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/la-muela-del-diablo/03.jpg
+- model: api.photo
+  pk: 167
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/la-muela-del-diablo/04.jpg
+- model: api.photo
+  pk: 168
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/la-muela-del-diablo/05.jpg
+- model: api.photo
+  pk: 169
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/la-muela-del-diablo/06.jpg
+- model: api.photo
+  pk: 170
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/la-muela-del-diablo/07.jpg
+- model: api.photo
+  pk: 171
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/la-muela-del-diablo/08.jpg
+- model: api.photo
+  pk: 172
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/la-muela-del-diablo/09.jpg
+- model: api.photo
+  pk: 173
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/la-muela-del-diablo/10.jpg
+- model: api.photo
+  pk: 174
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/la-muela-del-diablo/11.jpg
+- model: api.photo
+  pk: 175
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/la-muela-del-diablo/12.jpg
+- model: api.photo
+  pk: 176
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/la-muela-del-diablo/13.jpg
+- model: api.tplace
+  pk: 21
+  fields:
+    name: La Muela del Diablo
+    description: Una formación rocosa que se asemeja a una muela, ubicada en la zona Sur de La Paz, es un lugar popular para hacer senderismo y escalada.
+    location: 1
+    created_by: 1
+    photos: [164,165,166,167,168,169,170,171,172,173,174,175,176]
+    videos: []
+    comments: []
+    categories: []
+- model: api.photo
+  pk: 177
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/el-alto/01.jpg
+- model: api.photo
+  pk: 178
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/el-alto/02.jpg
+- model: api.photo
+  pk: 179
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/el-alto/03.jpg
+- model: api.photo
+  pk: 180
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/el-alto/04.jpg
+- model: api.photo
+  pk: 181
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/el-alto/05.jpg
+- model: api.photo
+  pk: 182
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/el-alto/06.jpg
+- model: api.photo
+  pk: 183
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/el-alto/07.jpg
+- model: api.photo
+  pk: 184
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/el-alto/08.jpg
+- model: api.photo
+  pk: 185
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/el-alto/09.jpg
+- model: api.photo
+  pk: 186
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/el-alto/10.jpg
+- model: api.photo
+  pk: 187
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/el-alto/11.jpg
+- model: api.photo
+  pk: 188
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/el-alto/12.jpg
+- model: api.photo
+  pk: 189
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/el-alto/13.jpg
+- model: api.photo
+  pk: 190
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/el-alto/14.jpg
+- model: api.photo
+  pk: 191
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/el-alto/15.jpg
+- model: api.photo
+  pk: 192
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/el-alto/16.jpg
+- model: api.photo
+  pk: 193
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/el-alto/17.jpg
+- model: api.photo
+  pk: 194
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/el-alto/18.jpg
+- model: api.photo
+  pk: 195
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/el-alto/19.jpg
+- model: api.photo
+  pk: 196
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/el-alto/20.jpg
+- model: api.photo
+  pk: 197
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/el-alto/21.jpg
+- model: api.photo
+  pk: 198
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/el-alto/22.jpg
+- model: api.photo
+  pk: 199
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/el-alto/23.jpg
+- model: api.photo
+  pk: 200
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/el-alto/24.jpg
+- model: api.photo
+  pk: 201
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/el-alto/25.jpg
+- model: api.photo
+  pk: 202
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/el-alto/26.jpg
+- model: api.photo
+  pk: 203
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/el-alto/28.jpg
+- model: api.photo
+  pk: 204
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/el-alto/29.jpg
+- model: api.photo
+  pk: 205
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/el-alto/30.jpg
+- model: api.photo
+  pk: 206
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/el-alto/32.jpg
+- model: api.photo
+  pk: 207
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/el-alto/34.jpg
+- model: api.photo
+  pk: 208
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/el-alto/a92a1e42-0869-4145-8668-e7a62316aed4_rw_1920.jpg
+- model: api.tplace
+  pk: 22
+  fields:
+    name: El Alto
+    description: La ciudad vecina de La Paz, conocida por su mercado gigantesco cada jueves y domingo y por ser uno de los puntos más altos habitados del mundo.
+    location: 1
+    created_by: 1
+    photos: [177,178,179,180,181,182,183,184,185,186,187,188,189,190,191,192,193,194,195,196,197,198,199,200,201,202,203,204,205,206,207,208]
+    videos: []
+    comments: []
+    categories: []
+- model: api.photo
+  pk: 209
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/tuni-y-la-laguna-tuni-condoriri/01.jpg
+- model: api.photo
+  pk: 210
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/tuni-y-la-laguna-tuni-condoriri/02.jpg
+- model: api.photo
+  pk: 211
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/tuni-y-la-laguna-tuni-condoriri/03.jpg
+- model: api.photo
+  pk: 212
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/tuni-y-la-laguna-tuni-condoriri/04.jpg
+- model: api.photo
+  pk: 213
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/tuni-y-la-laguna-tuni-condoriri/05.jpg
+- model: api.photo
+  pk: 214
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/tuni-y-la-laguna-tuni-condoriri/06.jpg
+- model: api.photo
+  pk: 215
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/tuni-y-la-laguna-tuni-condoriri/07.jpg
+- model: api.photo
+  pk: 216
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/tuni-y-la-laguna-tuni-condoriri/08.jpg
+- model: api.photo
+  pk: 217
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/tuni-y-la-laguna-tuni-condoriri/09.jpg
+- model: api.photo
+  pk: 218
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/tuni-y-la-laguna-tuni-condoriri/10.jpg
+- model: api.tplace
+  pk: 23
+  fields:
+    name: Tuni y la Laguna Tuni Condoriri
+    description: Un área de trekking que te lleva a lagunas de montaña y te ofrece vistas del impresionante Condoriri.
+    location: 1
+    created_by: 1
+    photos: [209,210,211,212,213,214,215,216,217,218]
+    videos: []
+    comments: []
+    categories: []
+- model: api.photo
+  pk: 219
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/isla-de-la-luna/01.jpg
+- model: api.photo
+  pk: 220
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/isla-de-la-luna/02.jpg
+- model: api.photo
+  pk: 221
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/isla-de-la-luna/03.jpg
+- model: api.photo
+  pk: 222
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/isla-de-la-luna/04.jpg
+- model: api.photo
+  pk: 223
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/isla-de-la-luna/05.jpg
+- model: api.photo
+  pk: 224
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/isla-de-la-luna/06.jpg
+- model: api.photo
+  pk: 225
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/isla-de-la-luna/07.jpg
+- model: api.photo
+  pk: 226
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/isla-de-la-luna/08.jpg
+- model: api.photo
+  pk: 227
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/isla-de-la-luna/09.jpg
+- model: api.photo
+  pk: 228
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/isla-de-la-luna/10.jpg
+- model: api.photo
+  pk: 229
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/isla-de-la-luna/11.jpg
+- model: api.tplace
+  pk: 24
+  fields:
+    name: Isla de la Luna
+    description: Menos conocida que la Isla del Sol, pero igual de encantadora, con ruinas incas y una energía muy especial.
+    location: 1
+    created_by: 1
+    photos: [219,220,221,222,223,224,225,226,227,228,229]
+    videos: []
+    comments: []
+    categories: []
+- model: api.photo
+  pk: 230
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/isla-del-sol/01.jpg
+- model: api.photo
+  pk: 231
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/isla-del-sol/02.jpg
+- model: api.photo
+  pk: 232
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/isla-del-sol/03.jpg
+- model: api.photo
+  pk: 233
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/isla-del-sol/04.jpg
+- model: api.photo
+  pk: 234
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/isla-del-sol/05.jpg
+- model: api.photo
+  pk: 235
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/isla-del-sol/06.jpg
+- model: api.photo
+  pk: 236
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/isla-del-sol/07.jpg
+- model: api.photo
+  pk: 237
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/isla-del-sol/08.jpg
+- model: api.photo
+  pk: 238
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/isla-del-sol/09.jpg
+- model: api.tplace
+  pk: 25
+  fields:
+    name: Isla del Sol
+    description: En la isla solo podía entrar el emperador Inca, máxima autoridad del imperio. Actualmente está poblada por pocas familias de indígenas de origen quechua y aimara dedicadas a la agricultura, el pastoreo y la venta de artesanías a los visitantes.
+    location: 1
+    created_by: 1
+    photos: [230,231,232,233,234,235,236,237,238]
+    videos: []
+    comments: []
+    categories: []
+- model: api.photo
+  pk: 239
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/el-parque-nacional-sajama/01.jpg
+- model: api.tplace
+  pk: 26
+  fields:
+    name: El Parque Nacional Sajama
+    description: Aunque ya lo mencioné, merece otra mención porque es un lugar mágico con sus bosques de queñua, aguas termales, y la posibilidad de ver vicuñas y llamas en su hábitat natural.
+    location: 1
+    created_by: 1
+    photos: [239]
+    videos: []
+    comments: []
+    categories: []
+- model: api.photo
+  pk: 240
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/yungas/01.jpg
+- model: api.photo
+  pk: 241
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/yungas/02.jpg
+- model: api.photo
+  pk: 242
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/yungas/03.jpg
+- model: api.photo
+  pk: 243
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/yungas/04.jpg
+- model: api.photo
+  pk: 244
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/yungas/05.jpg
+- model: api.tplace
+  pk: 27
+  fields:
+    name: Los Yungas
+    description: Yungas se usa específicamente para designar una región que contempla las montañas y valles lluviosos, zonas boscosas y empinadas al oriente de los Andes, por ejemplo al noreste de la ciudad de La Paz.
+    location: 1
+    created_by: 1
+    photos: [240,241,242,243,244]
+    videos: []
+    comments: []
+    categories: []
+- model: api.photo
+  pk: 245
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/cerro-mururata/060b8cf3-e0ed-4478-87d5-5068e83e160a_rw_1920.jpg
+- model: api.photo
+  pk: 246
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/cerro-mururata/1433f5ec-e2fd-4184-9d35-8e88e669d313_rw_1920.jpg
+- model: api.photo
+  pk: 247
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/cerro-mururata/163dfdc4-86ea-42a2-bf01-4dda04abf9b6_rw_1920.jpg
+- model: api.photo
+  pk: 248
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/cerro-mururata/31b182dc-3851-469e-a643-24de0a5369d2_rw_1920.jpg
+- model: api.photo
+  pk: 249
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/cerro-mururata/474dae50-2160-44b1-b80f-c366e29e56f7_rw_1920.jpg
+- model: api.photo
+  pk: 250
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/cerro-mururata/6419abe2-cd58-4ca2-ae3d-8000b6cf9d94_rw_1920.jpg
+- model: api.photo
+  pk: 251
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/cerro-mururata/8738fe24-430f-41fb-b9c4-96aea602dc2d.jpg
+- model: api.photo
+  pk: 252
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/cerro-mururata/b780abcd-cfba-4478-b67f-8adb7e7a0531_rw_1920.jpg
+- model: api.photo
+  pk: 253
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/cerro-mururata/c891df71-55d9-46e9-8db7-c122e39c0cd0_rw_1920.jpg
+- model: api.photo
+  pk: 254
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/cerro-mururata/cc2cf3b9-e23a-46fd-99d9-c6ade2d5f84f_rw_1920.jpg
+- model: api.photo
+  pk: 255
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/cerro-mururata/d943c05d-0b0b-46e6-9de2-84fc51a1e2b5_rw_1920.jpg
+- model: api.photo
+  pk: 256
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/cerro-mururata/e497e5c0-c7ec-4bad-8a29-1b558afaa961_rw_1920.jpg
+- model: api.tplace
+  pk: 28
+  fields:
+    name: Cerro Mururata
+    description: El cerro Mururata es una montaña de Bolivia, ubicada en el departamento de La Paz, sobre la cordillera de los Andes, específicamente el la cordillera central, tiene una altura de 5.869 m s. n. m. y está cubierto por nieves perpetuas.
+    location: 1
+    created_by: 1
+    photos: [245,246,247,248,249,250,251,252,253,254,255,256]
+    videos: []
+    comments: []
+    categories: []
+- model: api.photo
+  pk: 257
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/palca/27ed6e7d-71b6-4809-8e9c-51b56e436ae3.jpg
+- model: api.photo
+  pk: 258
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/palca/cff6ec24-5c9f-4c69-806a-c2f381137e52.jpg
+- model: api.photo
+  pk: 259
+  fields:
+    created_by: 1
+    image: photos/bolivia/lapaz/palca/f632179d-0039-467f-a213-cc609bc6f323.jpg
+- model: api.tplace
+  pk: 29
+  fields:
+    name: Palca
+    description: Palca es una pequeña localidad y municipio de Bolivia, capital de la provincia de Pedro Domingo Murillo en el Departamento de La Paz. La localidad cuenta con una población de 1.180 habitantes, mientras que el municipio tiene 16.622 habitantes.​
+    location: 1
+    created_by: 1
+    photos: [257,258,259]
+    videos: []
+    comments: []
+    categories: []
+- model: api.photo
+  pk: 260
+  fields:
+    created_by: 1
+    image: photos/bolivia/oruro/monumento-a-la-virgen-del-socavon/c80da329.jpg
+- model: api.photo
+  pk: 261
+  fields:
+    created_by: 1
+    image: photos/bolivia/oruro/monumento-a-la-virgen-del-socavon/dfa2dfb.jpg
+- model: api.tplace
+  pk: 30
+  fields:
+    name: Monumento a la Virgen del Socavón
+    description: Ubicado en un mirador sobre la ciudad de Oruro, ofrece una vista panorámica espectacular y es un sitio perfecto para tomar fotos.
+    location: 3
+    created_by: 1
+    photos: [260,261]
+    videos: []
+    comments: []
+    categories: []
+- model: api.photo
+  pk: 262
+  fields:
+    created_by: 1
+    image: photos/bolivia/potosi/ciudad-de-potosi/078e5416-9e70-42aa-8d9d-bc74a499b6b8_rw_1920.jpg
+- model: api.photo
+  pk: 263
+  fields:
+    created_by: 1
+    image: photos/bolivia/potosi/ciudad-de-potosi/094763b8-e214-4219-9a51-3af30ba15391_rw_1920.jpg
+- model: api.photo
+  pk: 264
+  fields:
+    created_by: 1
+    image: photos/bolivia/potosi/ciudad-de-potosi/09c4091c-62d5-49b2-92bb-f8f90582d3a1_rw_1920.jpg
+- model: api.photo
+  pk: 265
+  fields:
+    created_by: 1
+    image: photos/bolivia/potosi/ciudad-de-potosi/13984828-a075-4478-b0ad-f2c029a327ac_rw_1920.jpg
+- model: api.photo
+  pk: 266
+  fields:
+    created_by: 1
+    image: photos/bolivia/potosi/ciudad-de-potosi/160aad80-a588-49c6-9d01-a24340745c4d_rw_1920.jpg
+- model: api.photo
+  pk: 267
+  fields:
+    created_by: 1
+    image: photos/bolivia/potosi/ciudad-de-potosi/1bdd16a3-c39e-4b1c-8203-bba6aa5c8383_rw_1920.jpg
+- model: api.photo
+  pk: 268
+  fields:
+    created_by: 1
+    image: photos/bolivia/potosi/ciudad-de-potosi/20c67708-6adf-4805-9a79-a48560994c62_rw_1920.jpg
+- model: api.photo
+  pk: 269
+  fields:
+    created_by: 1
+    image: photos/bolivia/potosi/ciudad-de-potosi/36d0ef00-57aa-4287-9966-8f0407772cd6_rw_1920.jpg
+- model: api.photo
+  pk: 270
+  fields:
+    created_by: 1
+    image: photos/bolivia/potosi/ciudad-de-potosi/47b91ca7-1e97-4667-a5b0-e52694380515_rw_1920.jpg
+- model: api.photo
+  pk: 271
+  fields:
+    created_by: 1
+    image: photos/bolivia/potosi/ciudad-de-potosi/55e7b104-01c6-4188-a4b8-d925ed0c0705_rw_1920.jpg
+- model: api.photo
+  pk: 272
+  fields:
+    created_by: 1
+    image: photos/bolivia/potosi/ciudad-de-potosi/59ac9c7a-735b-4b17-9e70-11bdff667765_rw_1920.jpg
+- model: api.photo
+  pk: 273
+  fields:
+    created_by: 1
+    image: photos/bolivia/potosi/ciudad-de-potosi/7dd2bab1-d0a4-46de-b12c-8439a0cbaf5b_rw_1920.jpg
+- model: api.photo
+  pk: 274
+  fields:
+    created_by: 1
+    image: photos/bolivia/potosi/ciudad-de-potosi/c9b5a2c5-941b-47b3-8388-2a254019475b_rw_1920.jpg
+- model: api.photo
+  pk: 275
+  fields:
+    created_by: 1
+    image: photos/bolivia/potosi/ciudad-de-potosi/d874afeb-4f7b-45f1-bd4b-39c0ea2109d0_rw_1920.jpg
+- model: api.photo
+  pk: 276
+  fields:
+    created_by: 1
+    image: photos/bolivia/potosi/ciudad-de-potosi/ed204c0a-fd88-4886-b05b-3b019bdb2d00_rw_1920.jpg
+- model: api.photo
+  pk: 277
+  fields:
+    created_by: 1
+    image: photos/bolivia/potosi/ciudad-de-potosi/f578d820-dd0e-4a46-8feb-0c27f34cf7e7_rw_1920.jpg
+- model: api.tplace
+  pk: 31
+  fields:
+    name: Ciudad de Potosí
+    description: Esta ciudad es famosa por su rica historia minera y su impresionante arquitectura colonial. No te pierdas la Casa de la Moneda, la Catedral y las calles empedradas llenas de historia.
+    location: 4
+    created_by: 1
+    photos: [262,263,264,265,266,267,268,269,270,271,272,273,274,275,276,277]
+    videos: []
+    comments: []
+    categories: []
+- model: api.photo
+  pk: 278
+  fields:
+    created_by: 1
+    image: photos/bolivia/potosi/salar-de-uyuni/alan-hurt-jr-Eax7a3sVHAw-unsplash.jpg
+- model: api.photo
+  pk: 279
+  fields:
+    created_by: 1
+    image: photos/bolivia/potosi/salar-de-uyuni/ana-maria-alvarado-porras-wjPUh8myjqg-unsplash.jpg
+- model: api.photo
+  pk: 280
+  fields:
+    created_by: 1
+    image: photos/bolivia/potosi/salar-de-uyuni/diego-aguilar-JlLFykfuXcQ-unsplash.jpg
+- model: api.photo
+  pk: 281
+  fields:
+    created_by: 1
+    image: photos/bolivia/potosi/salar-de-uyuni/gabriel-rojas-sxJaTB6Ze3w-unsplash.jpg
+- model: api.photo
+  pk: 282
+  fields:
+    created_by: 1
+    image: photos/bolivia/potosi/salar-de-uyuni/guille-alvarez-RHd1D38KvN0-unsplash.jpg
+- model: api.photo
+  pk: 283
+  fields:
+    created_by: 1
+    image: photos/bolivia/potosi/salar-de-uyuni/gustavo-espindola-7BG3z3N6zAI-unsplash.jpg
+- model: api.photo
+  pk: 284
+  fields:
+    created_by: 1
+    image: photos/bolivia/potosi/salar-de-uyuni/javier-collarte-qyV1xnDyID0-unsplash.jpg
+- model: api.photo
+  pk: 285
+  fields:
+    created_by: 1
+    image: photos/bolivia/potosi/salar-de-uyuni/jeison-higuita-HzNv3Lt7cx4-unsplash.jpg
+- model: api.photo
+  pk: 286
+  fields:
+    created_by: 1
+    image: photos/bolivia/potosi/salar-de-uyuni/lucas-metz-gayHG-E1Lf4-unsplash.jpg
+- model: api.photo
+  pk: 287
+  fields:
+    created_by: 1
+    image: photos/bolivia/potosi/salar-de-uyuni/matan-levanon-qchr30s1R4c-unsplash.jpg
+- model: api.photo
+  pk: 288
+  fields:
+    created_by: 1
+    image: photos/bolivia/potosi/salar-de-uyuni/matheus-oliveira-i3Ng6HW3aCY-unsplash.jpg
+- model: api.photo
+  pk: 289
+  fields:
+    created_by: 1
+    image: photos/bolivia/potosi/salar-de-uyuni/samuel-scrimshaw-kp_87tExCwI-unsplash.jpg
+- model: api.photo
+  pk: 290
+  fields:
+    created_by: 1
+    image: photos/bolivia/potosi/salar-de-uyuni/sifan-liu-Ry6Imrao4hE-unsplash.jpg
+- model: api.photo
+  pk: 291
+  fields:
+    created_by: 1
+    image: photos/bolivia/potosi/salar-de-uyuni/trevor-mckinnon-KU4xurtYjT4-unsplash.jpg
+- model: api.photo
+  pk: 292
+  fields:
+    created_by: 1
+    image: photos/bolivia/potosi/salar-de-uyuni/trevor-mckinnon-Y_Z-ltvMjdg-unsplash.jpg
+- model: api.tplace
+  pk: 32
+  fields:
+    name: Salar de Uyuni
+    description: Es el salar más grande del mundo y un paisaje que parece de otro planeta. Puedes hacer un tour para ver el amanecer o el atardecer, que son espectaculares, y no te olvides de las fotos en perspectiva que son súper divertidas.
+    location: 4
+    created_by: 1
+    photos: [278,279,280,281,282,283,284,285,286,287,288,289,290,291,292]
+    videos: []
+    comments: []
+    categories: []
+- model: api.photo
+  pk: 293
+  fields:
+    created_by: 1
+    image: photos/bolivia/santacruz/rio-pirai/8f8910da-af99-4be8-befa-2a783a5464e3.jpg
+- model: api.photo
+  pk: 294
+  fields:
+    created_by: 1
+    image: photos/bolivia/santacruz/rio-pirai/9725c556-1394-4067-9d55-ac4b852ff612.jpg
+- model: api.photo
+  pk: 295
+  fields:
+    created_by: 1
+    image: photos/bolivia/santacruz/rio-pirai/a650212b-d3f0-4ee4-a65a-bc646b142a2b.jpg
+- model: api.tplace
+  pk: 33
+  fields:
+    name: Río Pirai
+    description: Un lugar popular entre los locales para escapar del calor, con áreas para hacer picnic, nadar o simplemente relajarse junto al río.
+    location: 8
+    created_by: 1
+    photos: [293,294,295]
+    videos: []
+    comments: []
+    categories: []
