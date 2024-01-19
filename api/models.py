@@ -35,6 +35,7 @@ class Category(models.Model):
 class Location(models.Model):
     country = models.CharField(max_length=100)
     city = models.CharField(max_length=100)
+    slug = models.CharField(max_length=100, default="", blank=True)
     latitude = models.DecimalField(max_digits=9, decimal_places=6, null=True, blank=True)
     longitude = models.DecimalField(max_digits=9, decimal_places=6, null=True, blank=True)
 

@@ -3,6 +3,7 @@
   fields:
     country: Bolivia
     city: La Paz
+    slug: lapaz
     latitude: -16.523299
     longitude: 68.110833
 - model: api.location
@@ -10,6 +11,7 @@
   fields:
     country: Bolivia
     city: Cochabamba
+    slug: cochabamba
     latitude: -16.523299
     longitude: 68.110833
 - model: api.location
@@ -17,6 +19,7 @@
   fields:
     country: Bolivia
     city: Oruro
+    slug: oruro
     latitude: -16.523299
     longitude: 68.110833
 - model: api.location
@@ -24,6 +27,7 @@
   fields:
     country: Bolivia
     city: Potosi
+    slug: potosi
     latitude: -16.523299
     longitude: 68.110833
 - model: api.location
@@ -31,6 +35,7 @@
   fields:
     country: Bolivia
     city: Beni
+    slug: beni
     latitude: -16.523299
     longitude: 68.110833
 - model: api.location
@@ -38,6 +43,7 @@
   fields:
     country: Bolivia
     city: Sucre
+    slug: sucre
     latitude: -16.523299
     longitude: 68.110833
 - model: api.location
@@ -45,6 +51,7 @@
   fields:
     country: Bolivia
     city: Pando
+    slug: pando
     latitude: -16.523299
     longitude: 68.110833
 - model: api.location
@@ -52,6 +59,7 @@
   fields:
     country: Bolivia
     city: Santa Cruz
+    slug: santacruz
     latitude: -16.523299
     longitude: 68.110833
 - model: api.location
@@ -59,5 +67,6 @@
   fields:
     country: Bolivia
     city: Tarija
+    slug: tarija
     latitude: -16.523299
     longitude: 68.110833

@@ -10,7 +10,7 @@ class UserSerializer(serializers.ModelSerializer):
 class LocationSerializer(serializers.ModelSerializer):
     class Meta:
         model = Location
-        fields = ('country', 'city', 'latitude', 'longitude')
+        fields = ('country', 'city', 'slug', 'latitude', 'longitude')
 
 class CategorySerializer(serializers.ModelSerializer):
     class Meta:
@@ -62,7 +62,7 @@ class CommentSerializer(serializers.ModelSerializer):
         fields = ('id', 'user', 'content', 'created_at', 'likes', 'favorites')
 
 class TPlaceSerializer(serializers.ModelSerializer):
-    location = LocationSerializer()
+    location = LocationSerializer(read_only=True)
     created_by = UserSerializer()
     photos = PhotoSerializer(many=True, read_only=True)
     videos = VideoSerializer(many=True, read_only=True)

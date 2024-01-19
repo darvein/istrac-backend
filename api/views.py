@@ -1,15 +1,19 @@
 from rest_framework import generics
+from django.shortcuts import get_object_or_404
+from rest_framework import generics
 from .models import TPlace, Photo, Video, Location, Category, Event, Like, Favorite, Comment
-from .serializers import (TPlaceSerializer, PhotoSerializer, VideoSerializer, LocationSerializer, 
-                          CategorySerializer, EventSerializer, LikeSerializer, FavoriteSerializer, CommentSerializer)
+from .serializers import TPlaceSerializer, PhotoSerializer, VideoSerializer, LocationSerializer, CategorySerializer, EventSerializer, LikeSerializer, FavoriteSerializer, CommentSerializer
 
-# TPlace Views
 class TPlaceListCreateView(generics.ListCreateAPIView):
-    queryset = TPlace.objects.all()
     serializer_class = TPlaceSerializer
 
-    def get_serializer_context(self):
-        return {'request': self.request}
+    def get_queryset(self):
+        queryset = TPlace.objects.all()
+        location_name = self.request.query_params.get('location', None)
+        if location_name is not None:
+            location = get_object_or_404(Location, slug__iexact=location_name)
+            queryset = queryset.filter(location=location)
+        return queryset
 
 class TPlaceDetailView(generics.RetrieveUpdateDestroyAPIView):
     queryset = TPlace.objects.all()

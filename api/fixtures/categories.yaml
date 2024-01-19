@@ -13,5 +13,17 @@
 - model: api.category
   pk: 3
   fields: 
-    name: Swimming
+    name: Nadar
     description: Lugar ideal para nadar al aire libre
+
+- model: api.category
+  pk: 4
+  fields: 
+    name: Kayak
+    description: Aventuras en el Rio
+
+- model: api.category
+  pk: 5
+  fields: 
+    name: Yoga
+    description: Lugar ideal sin distracciones para poder meditar y hacer Yoga
