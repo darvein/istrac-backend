@@ -1,3 +1,5 @@
+import boto3
+from django.conf import settings
 from rest_framework import serializers
 from django.contrib.auth.models import User
 from .models import TPlace, Photo, Video, Location, Category, Event, Like, Favorite, Comment
@@ -19,6 +21,7 @@ class CategorySerializer(serializers.ModelSerializer):
 
 class PhotoSerializer(serializers.ModelSerializer):
     image_url = serializers.SerializerMethodField()
+    original_url = serializers.SerializerMethodField()
 
     def get_image_url(self, photo):
         request = self.context.get('request')
@@ -26,9 +29,28 @@ class PhotoSerializer(serializers.ModelSerializer):
             return request.build_absolute_uri(photo.image.url)
         return None
 
+    def get_original_url(self, photo):
+        if photo.image:
+            original_key = photo.image.name.replace('photos/', 'p/')
+            bucket_name = settings.AWS_STORAGE_BUCKET_NAME
+            original_url = self.get_presigned_url(bucket_name, original_key)
+            return original_url
+        return None
+
+    def get_presigned_url(self, bucket_name, object_name, expiration=3600):
+        s3_client = boto3.client('s3')
+        try:
+            response = s3_client.generate_presigned_url('get_object',
+                                                        Params={'Bucket': bucket_name,
+                                                                'Key': object_name},
+                                                        ExpiresIn=expiration)
+        except NoCredentialsError:
+            print("Credentials not available")
+        return response
+
     class Meta:
         model = Photo
-        fields = ('id', 'created_by', 'image', 'image_url')
+        fields = ('id', 'created_by', 'image', 'image_url', 'original_url')
 
 class VideoSerializer(serializers.ModelSerializer):
     video_url = serializers.SerializerMethodField()

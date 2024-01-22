@@ -11,10 +11,7 @@ SECRET_KEY = 'django-insecure-%)iu@c)vg0hc^tc4ur&hyfrgu3)r&i_4xn3w65e*=82%7+ieot
 DEBUG = True
 
 ALLOWED_HOSTS = [
-        'istrac.nextbrave.net',
-        'localhost',
-        'www.rutazz.com',
-        'rutazz.com'
+        os.environ.get("APP_HOST")
         ]
 
 # Application definition
