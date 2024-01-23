@@ -10,9 +10,13 @@ class TPlaceListCreateView(generics.ListCreateAPIView):
     def get_queryset(self):
         queryset = TPlace.objects.all()
         location_name = self.request.query_params.get('location', None)
-        if location_name is not None:
+
+        # Check if location_name is provided and not 'default'
+        if location_name and location_name.lower() != 'default':
             location = get_object_or_404(Location, slug__iexact=location_name)
             queryset = queryset.filter(location=location)
+
+        # If location_name is 'default' or not provided, return all objects
         return queryset
 
 class TPlaceDetailView(generics.RetrieveUpdateDestroyAPIView):
