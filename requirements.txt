@@ -8,6 +8,7 @@ djangorestframework==3.14.0
 jmespath==1.0.1
 mysqlclient==2.2.1
 pillow==10.2.0
+PyMySQL==1.1.0
 python-dateutil==2.8.2
 python-dotenv==1.0.0
 pytz==2023.3.post1
