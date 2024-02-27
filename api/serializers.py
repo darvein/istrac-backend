@@ -12,12 +12,12 @@ class UserSerializer(serializers.ModelSerializer):
 class LocationSerializer(serializers.ModelSerializer):
     class Meta:
         model = Location
-        fields = ('country', 'city', 'slug', 'latitude', 'longitude')
+        fields = ('id', 'country', 'city', 'slug', 'latitude', 'longitude')
 
 class CategorySerializer(serializers.ModelSerializer):
     class Meta:
         model = Category
-        fields = ('name', 'description')
+        fields = ('id', 'name', 'description')
 
 class PhotoSerializer(serializers.ModelSerializer):
     image_url = serializers.SerializerMethodField()
